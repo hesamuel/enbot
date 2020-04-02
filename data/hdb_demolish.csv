@@ -1,0 +1,100 @@
+Site No,SERS Announced,town,street,cluster,year_completed,ave_floors,1room_sold,2room_sold,3room_sold,4room_sold,5room_sold,exec_sold,total_dwelling_units,Others,Replacement Street Name,Replacement Site Block No.,Replacement Storey height,replacement No of units
+1,22 Aug 1995,Bukit Merah - Tiong Bahru,Boon Tiong Road,"[2, 4, 6, 8, 10, 12, 13 ]",1952,,,,,,,,384,,Boon Tiong Road,"2A, 2C",,"706 4-rm, 696 5-rm"
+,22 Aug 1995,Bukit Merah - Tiong Bahru,Boon Tiong Road,"[1, 3, 5, 7, 9, 11, 14, 15 , 16]",1952,,,,,,,,,,Boon Tiong Road,"4A, 8A, 8B",,
+2,1 Sep 1995,Toa Payoh,Lorong 2 Toa Payoh,"[145, 147, 151 ,152]",,,,,,,,,400,,Lorong 2 Toa Payoh,"141, 153, 153A, 154 to 156",,?
+3,8 Nov 1995,Bukit Merah,Depot Road,"[103, 110 ,111,105, 107 , 112 ]",1975,,0,0,822,176,5,0,1003,,Depot Road,"103A, 103B, 104A, 104B, 106A , 106B",,?
+4,8 Feb 1996,Bukit Merah,Redhill Road,"[67 , 71,72, 77 ]",,,228,0,384,0,0,0,612,#ERROR!,Redhill Close,68 to 70,,247 + 15 shops
+5,30 Apr 1996,Queenstown,Margaret Drive,"[""6A"" , ""6B""]",1969,,0,0,216,0,0,0,216,,Stirling Road,181 to 184,"14,13 , 25","203 4-rm, 159 5-rm"
+,30 Apr 1996,Queenstown,Forfar House,[39],1956,,0,0,106,0,0,0,106,#ERROR!,,,,
+6,28 May 1996,Bedok,Chai Chee Road,"[6 , 7]",1966,8.5,0,49,119,0,0,0,168,,Chai Chee Road,"10 , 11",15,"112 4-rm, 84 5-rm, 12 shops"
+7,30 Jun 1996,Ang Mo Kio,Ang Mo Kio Avenue 1,"[309, 307 , 308 ,315 , 316 ]",1977,,258,0,661,97,0,0,1016,#ERROR!,Ang Mo Kio Street 32,350 to 354,,
+8,9 Sep 1996,Jurong West - Taman Jurong,Ho Ching Road,"[139, 140,141, 142, 143, 144, 145]",,,,,,,,,,,Yung Sheng Road,"177 to 180 , 184",,
+9,5 Dec 1996,Queenstown - Buona Vista,Holland Drive,"[18 , 19]",,,0,0,106,72,1,0,179,,Strathmore Avenue,"55 , 56",,(~300 units)
+10,17 Feb 1997,Toa Payoh,Toa Payoh Central,[79],1971,10,0,0,374,0,0,0,374,#ERROR!,Lor 2 Toa Payoh,142 to 144,12/23/30,(~700 units)
+11,17 Feb 1997,Toa Payoh,Toa Payoh Lorong 2,[89],1973,10,0,0,198,0,0,0,198,,Lor 2 Toa Payoh,142 to 144,,
+12,17 Feb 1997,Ang Mo Kio,Ang Mo Kio Avenue 10,"[454 , 455]",1979,12,0,0,242,44,0,0,286,,Ang Mo Kio Avenue 6,"700A, 700B , 700C",20/25,(~330 units)
+13,17 Feb 1997,Bukit Merah - Tiong Bahru,Kim Tian Road,"[126 , 127]",1974,10,0,0,219,0,0,0,219,,Kim Tian Road,"119B, 119C , 119D",27/30,(~620 units)
+14,17 Feb 1997,Bukit Merah,Nile Road,"[51, 53 , 54]",1963,10,0,88,270,0,0,0,358,,Kim Tian Road,"131B , 131C",,
+15,25 Apr 1997,Ang Mo Kio,Ang Mo Kio Avenue 3,"[580 , 581, 582]",1979,13,0,0,366,70,0,0,436,,Ang Mo Kio Street 52,"596A, 596B, 596C , 596D",11/25,(460 units)
+16,25 Apr 1997,Queenstown - Buona Vista,Dover Crescent,"[24 , 28]",1975,14,0,0,147,130,0,0,277,,Dover Crescent,17 to 19,14/25,(300 units)
+17,25 Apr 1997,Kallang - Kitchener,Syed Alwi Road,"[3, 4 , 5]",1971,17,0,0,132,43,0,0,175,,Jellicoe Road,"813, 815 , 816",8/30,(340 units)
+18,17 Oct 1997,Jurong West - Taman Jurong,Tah Ching Road,"[135,136,137, 138]",,,,,,,,,,,Yung Sheng Road,181 to 183,,
+19,17 Oct 1997,Clementi,Clementi Avenue 3,"[439 , 440]",,,,,,,,,,,Clementi Avenue 3,"454 to 456, 458 , 460",,
+20,17 Oct 1997,Bukit Merah,Alexandra Road,"[136A, 137A, 136, 137,138, 139, 140, 142 , 145]",,,,,,,,,,,Jln Membina,19 to 23,,
+21,13 Feb 1998,Bukit Merah - Telok Blangah,Telok Blangah Drive,"[78, 80 , 81]",,,,,,,,,,,Telok Blangah Heights,"86 , 88",,
+22,13 Feb 1998,Jurong East - Teban Gardens,Teban Gardens Road,"[12,13, 14, 17 , 19 ]",,,,,,,,,,,Teban Gardens Road,"60 , 62 to 65",,
+,13 Feb 1998,Jurong East - Teban Gardens,Teban Gardens Road,"[21,22, 23 ]",,,,,,,,,,,Teban Gardens Road,"60 , 62 to 65",,
+23,21 Jul 1998,Central,Short Street,"[1,2,3,4,5,6, 7]",,,,,,,,,,,Farrer Park Road,"11 to 13 , 15",,
+24,21 Jul 1998,Central,Short Street,"[11 ,12, 13]",,,,,,,,,,,Farrer Park Road,"11 to 13 , 15",,
+25,21 Jul 1998,Central,Outram Park,"[21 ,22, 23 , 27, 28, 29]",,,,,,,,,,,Cantonment Close,"8, 9, 11, 13 , 16 to 19",,
+26,7 Oct 1998,Toa Payoh - Upper Aljunied,Upper Aljunied Lane,[1],,,,,,,,,,,Pine Close,1,,
+27,7 Oct 1998,Bukit Merah - Tiong Bahru,Jalan Membina Barat,"[24, 31 , 32]",,,,,,,,,,,Jln Membina,"118A, 118B, 118C , 118D",,
+28,7 Oct 1998,Bukit Merah - Tiong Bahru,Lower Delta Road,"[102 , 103]",,,,,,,,,,,Jln Membina,"118A, 118B, 118C , 118D",,
+29,7 Oct 1998,Lim Chu Kang,Lim Chu Kang Road,"[3, 4 , 5]",,,,,,,,,,,Boon Lay Drive,"268A, 268B , 268C",,
+30,18 Mar 1999,Kallang - Bendemeer,Tronoh Road,"[7 , 8]",,,,,,,,,,,McNair Road,"108B , 108C",,
+31,21 Mar 1999,Bukit Batok - Hillview,Hillview Avenue,"[1,2,3,4,5,6,7,8, 10 , 12,13, 14]",,,,,,,,,,,Bukit Batok West Avenue 5,"383 to 386, 387 to 390 , 391 to 395",,
+32,29 Oct 1999,Toa Payoh,Toa Payoh Lorong 1A,"[136, 137 , 140]",,,,,,,,,,,Lorong 2 Toa Payoh,"145 to 147 , 152",,
+33,29 Oct 1999,Toa Payoh,Toa Payoh Lorong 1,"[164, 165, 166 167]",,,,,,,,,,,Lorong 2 Toa Payoh,"145 to 147 , 152",,
+34,29 Oct 1999,Geylang,Dakota Crescent,"[68, 70 , 72]",,,,,,,,,,,Jalan Tiga,"39, 43, 45, 47 , 49",,
+35,20 Feb 2000,Sengkang,Buangkok South Farmway 1,"[1, 2, 5, 206 , 207]",,,,,,,,,,,Compassvale Lane,"207A, 207B, 207C , 207D",,
+36,20 Feb 2000,Bedok,Bedok North Road,[83],,,,,,,,,,,Bedok North Road,"180 to 183 , 185",,
+37,20 Feb 2000,Sembawang,Sembawang Road,"[1,2,3,4, 5]",,,,,,,,,,,Wellington Circle,"508A, 508B, 508C, 509A, 509B, 510A , 510B",,
+38,30 Jul 2000,Bukit Merah - Telok Blangah,Telok Blangah Heights,"[70 , 71]",,,,,,,,,,,Telok Blangah Heights,"85 , 87",,
+39,30 Jul 2000,Central,Outram Hill,"[14,15, 16]",,,,,,,,,,,Cantonment Close,12,,
+40,12 Aug 2000,Clementi,Clementi Ave 4,"[311,312, 313, 314]",,,,,,,,,,,Clementi Avenue 3,"457, 459, 461 , 462",,
+41,17 Feb 2001,Queenstown,Margaret Drive,[96],,,,,,,,,,,Strathmore Avenue,48 to 52,,
+42,17 Feb 2001,Queenstown,Stirling Road,"[172,173,174, 175]",,,,,,,,,,,,,,
+43,3 Mar 2001,Seletar,Seletar Road,"[1,2,3, 4]",,,,,,,,,,,Fernvale Lane,"403A, 403B, 403C, 403D, 404A, 404B, 405A, 405B , 405C",,
+44,3 Mar 2001,Seletar,Seletar West Farmway 6,"[1, 2, 5, 6 , 7]",,,,,,,,,,,,,,
+45,11 Mar 2001,Kallang - Boon Keng,Upper Boon Keng Road,"[6, 8, 9 , 10]",,,,,,,,,,,Upper Boon Keng Road,"2A, 2B, 2C, 2D, 3A, 3B, 3C , 3D",,
+46,13 Jan 2003,Queenstown,Tanglin Halt,"[50 52,53, 54]",,,,,,,,,,,Tanglin Halt Road,89 to 91,,
+47,13 Jan 2003,Queenstown,Commonwealth Drive,"[57, 61 , 67,68, 69, 70, 71,72, 73]",,,,,,,,,,,,,,
+48,15 Jan 2003,Toa Payoh,Lorong 5 Toa Payoh,"[28, 30, 32 , 33]",,,,,,,,,,,Toa Payoh Central,"79A, 79B, 79C, 79D , 79E",,
+49,20 Feb 2003,Geylang,Jalan Pasar Baru,"[1,2, 3]",,,,,,,,,,,Eunos Crescent,31 to 36,,
+50,24 Feb 2003,Bukit Merah - Havelock,Taman Ho Swee,"[29, 31 , 33]",,,,,,,,,,,Jalan Membina,"25A, 25B, 26A, 26B, 26C, 26D, 27A , 27B",,
+51,16 Jul 2004,Bedok,Bedok South Avenue 3,"[46,47,48,49, 50]",,,,,,,,,,,Bedok Central,"219A, 219B, 219C, 219D, 220A, 220B, 220C, 221A, 221B , 221C",,
+52,19 Jul 2004,Queenstown - Buona Vista,Dover Road,"[30,31, 32 , 34,35,36,37,38, 39]",,,,,,,,,,,Dover Crescent,"28A, 28B, 28C , 28D",,
+53,28 Jul 2004,Jurong West - Taman Jurong,Tao Ching Road,"[103 , 105]",,,,,,,,,,,Tah Ching Road,"337A, 337B, 337C, 337D , 338A",,
+54,28 Mar 2005,Clementi,Clementi Avenue 3,"[436,437, 438]",,,,,,,,,,,Clementi Avenue 3,"441A , 441B",,
+55,28 Mar 2005,Clementi,Clementi Avenue 3,[445],,,,,,,,,,,,,,
+56,21 Apr 2005,Queenstown - Buona Vista,Holland Drive,"[14,15,16, 17, 22 , 23]",,,,,,,,,,,"Holl, Drive","18A, 18B, 18C , 18D",,(~828 units)
+57,25 Nov 2005,Kallang - Boon Keng,Upper Boon Keng Road,[20],1974,16,0,0,277,0,4,0,281,#ERROR!,Bendemeer Road#,"38A, 38B, 38C, 38D , 39A",16 to 29,(~1000 units)
+58,25 Nov 2005,Geylang,Sims Drive,"[54, 56, 57, 59, 60 , 62]",1977,12.5,0,0,387,636,13,0,1036,#ERROR!,Upper Boon Keng Road#,"5A, 2A, 2B, 2C, 2D, 3A, 3B, 3C , 3D",,(670 units)
+59,29 Dec 2005,Queenstown,Margaret Drive,"[""6C""]",1969,,0,0,169,0,0,0,169,#ERROR!,Strathmore Avenue,"61A, 61B, 61C, 62A , 62B",20-30,(~800 units)
+60,29 Dec 2005,Queenstown,Commonwealth Avenue,"[""27A""]",1971,,0,0,220,0,0,0,226,#ERROR!,,,,
+61,29 Dec 2005,Queenstown,Commonwealth Avenue,"[""39A""]",1969,,0,0,141,0,1,0,142,#ERROR!,,,,
+62,22 Mar 2006,Jurong West - Boon Lay Gardens,Yung Ping Road,"[5 ,6,7,8,9, 10]",1973,11,0,0,610,0,9,0,619,,Kang Ching Road,"338B, 339A, 339B, 339C , 339D",20,"(~630 units)
+In addition: Tah Ching Road 337A, 337B, 337C, 337D, 338A (220 units)"
+63,22 Mar 2006,Jurong West - Boon Lay Gardens,Boon Lay Drive,"[180,181,182 , 184]",1976,9.5,0,0,0,578,0,0,578,#ERROR!,Jurong West St 64@,"675A, 675B, 676A, 676B, 677A, 677B, 677C, 678A, 678B, 678C , 678D",4 to 22,"(1635 units)
+In addition: 394 units around Jurong West existing precints"
+64,22 Mar 2006,Jurong West - Taman Jurong,Boon Lay Avenue,"[216,217,219 , 220]",1975,10.5,0,0,0,676,0,0,676,#ERROR!,Jurong West St 93@,"986A, 986B, 986C, 987A, 987B, 988A, 988B, 988C, 989A, 989B, 989C, 989D, 990A, 990B , 990C",,
+65,21 Apr 2006,Bukit Merah,Zion Road,"[88,89,90,91,92]",1973,14,0,0,519,110,7,0,636,#ERROR!,Havelock Road,52 to 58,Up to 40,(~1200 units)
+66,22 Jun 2006,Ang Mo Kio,Ang Mo Kio Avenue 2,"[246,247,248,249,250,251, 252]",1976,8,0,0,629,118,175,1,923,#ERROR!,Ang Mo Kio Avenue 1,"307A, 307B, 307C, 308A, 308B, 310A, 310B , 310C",Up to 30,(~1200 units)
+67,8 Dec 2006,Queenstown - Buona Vista,Ghim Moh Road,"[9,10,11, 12, ""9A"" , ""12A""]",1976,14.67,0,0,474,527,5,0,1006,#ERROR!,Ghim Moh Link,"22, 23 , 26 to 28",Up to 40,(~1300 units)
+68,23 Feb 2007,Bukit Merah,Henderson Road,"[94 , 96]",1975,14,0,0,358,168,5,0,531,#ERROR!,Kim Tian Road,"126A, 126C, 127A, 127C , 127D",Up to 40,(~1100 units)
+69,23 Feb 2007,Bukit Merah - Silat,Silat Walk,"[17,18, 19 , 22,23,24,25,26,27,28,29,30, 31]",1950,3.5,0,0,144,64,0,0,208,,,,,
+70,28 Jun 2007,Clementi,Clementi Avenue 1,"[401 ,402,403,404, 407,408, 409]",1977,13,0,0,797,360,8,9,1174,#ERROR!,Clementi Avenue 1,"416 to 418, 420, 421, 423 to 425",Up to 40,(~1600 units)
+71,12 Jul 2007,Jurong East - Teban Gardens,Teban Gardens Road,"[2,3,4,5,6,7,8,9,10, 11]",1976,14.67,0,0,672,120,125,0,917,,Teban Gardens Road,20 to 23,Up to 40,(? Units)
+72,8-Aug-08,Queenstown,Commonwealth Drive,"[74, 75, 76, 77, 78, 79, 80 ]",1964,10,0,0,659,10,0,0,669,,Commonwealth Drive,"Blocks 50 to 54
+(Commonwealth 10)",Up to 40,(~730 units)
+73,8-Nov-09,Bukit Merah,Bukit Merah View,"[ 110, 111, 113, 114]",1973,15,0,0,102,192,2,0,296,#ERROR!,Boon Tiong Road,"Blocks 9A, 9B, 10A , 10B
+(Tiong Bahru View)",Up to 40,(~700 units)
+74,13-Feb-11,Clementi,Clementi Avenue 5,"[321,322, 323]",1977,10,0,0,291,81,2,0,374,,Clementi Avenue 3,"Blocks 440A to 440C
+(Clementi Cascadia)",Up to 40,(~500 units)
+75,9-Nov-11,Bedok - East Coast,East Coast Road,"[1,2, 3]",1963,5,0,0,80,2,0,0,82,#ERROR!,Chai Chee Road,"Blocks 807B , 807C
+(Ping Yi Greens)",15,(400 Units)
+-,15-Nov-11,Central,Rochor Road,"[1, 2, 3, 4]",,,,,,,,,,,Upper Boon Keng Rd,"8A, 8B, 8C
+(Kallang Trivista)",,
+76,3-Dec-11,Bukit Merah,Redhill Close,"[1,2, 3, 5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21, 22]",1955,7,0,0,875,3,0,0,878,,Henderson Road,"Blocks 95A to 95C, 96A , 96B
+(City Vue @Henderson)",,(~1200 units)
+77,29-Dec-11,Jurong West - Boon Lay Gardens,Boon Lay Drive,"[167,168,169,170,171, 172]",1973,11,0,0,640,0,10,0,650,,Jurong West Central,"697A to 6097C, 698A to 698C
+(Jurong West Blossom)",16,(~710 units)
+78,25-Jun-12,Woodlands,Woodlands Centre Road,"[""1A"" , ""2A""]",1983,4,0,0,143,0,4,0,147,#ERROR!,"Woodl,s Drive 70","Blocks 717A , 717B
+(Admiralty Vista)",13/16,(~190 units)
+79,27-Jun-14,Queenstown,Tanglin Halt Road,"[24,25,26,27,28,29,30,31,32, 33,34,35,36,37, 38, 40,41,42,43,44, 45, 55, 56, 58,59, 60 , 62,63,64,65, 66]",1962,9.5,0,837,2539,104,0,0,3480,,"Margaret Drive (Site A)
+Margaret Drive (Site B)
+Dawson Road (Site C)
+Dawson Road (Site D)
+Strathmore Avenue (Site E)",,,(~3707)
+79,3-Aug-16,Clementi,West Coast Road,"[ 513,514,515,516,517,518,519, 520]",1979,9.33,0,0,843,140,4,0,987,,"Site A: Clementi Avenue 1
+Site B: West Coast Link",,"40, 30/32",(~1346)

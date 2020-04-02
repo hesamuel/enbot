@@ -1,0 +1,39 @@
+# Metadata for National Map Polygon
+---
+Identifier: '80456948-ef11-488d-aabc-e439dfb5e5ad'
+Name: 'national-map-polygon'
+Title: 'National Map Polygon'
+Description: 'This dataset contains polygon features of national map data which includes
+  coastal outlines, recreational and hydrographic features.'
+Topics:
+  - 'Infrastructure'
+Keywords:
+  - 'Singapore'
+  - 'coastal'
+  - 'contour'
+  - 'expressway'
+  - 'major road'
+Publisher:
+  Name: 'Singapore Land Authority'
+  Admin 1:
+    Name: 'Cindy Wong'
+    Department: 'SINGAPORE LAND AUTHORITY'
+    Email: 'sla_agencyadmin@sla.gov.sg'
+Sources:
+  - 'Singapore Land Authority'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Last Updated: '2019-10-17T00:03:11.459278'
+Resources:
+  -
+    Identifier: '61a64a4e-c715-4aeb-b922-84df343df282'
+    Title: 'National Map Polygon (KML)'
+    Url: 'https://geo.data.gov.sg/singaporemap-polygon/2019/10/08/kml/singaporemap-polygon.kml'
+    Format: 'KML'
+    Last Updated: '2019-10-07T16:00:00'
+  -
+    Identifier: 'd1f2a8b0-a618-4b8e-be48-d90c3e34d746'
+    Title: 'National Map Polygon (GEOJSON)'
+    Url: 'https://geo.data.gov.sg/singaporemap-polygon/2019/10/08/geojson/singaporemap-polygon.geojson'
+    Format: 'GeoJSON'
+    Last Updated: '2019-10-07T16:00:00'
