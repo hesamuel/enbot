@@ -1,0 +1,37 @@
+# Metadata for Heritage Trees
+---
+Identifier: 'e85eb6b6-024d-4593-b4f7-3e3309ad4e43'
+Name: 'heritage-trees'
+Title: 'Heritage Trees'
+Description: 'This theme contains heritage trees in Singapore.'
+Topics:
+  - 'Infrastructure'
+Keywords:
+  - 'heritage'
+  - 'heritage trees'
+  - 'onemap'
+  - 'themes'
+Publisher:
+  Name: 'National Parks Board'
+  Admin 1:
+    Name: 'Joelyn Oh'
+    Department: 'NATIONAL PARKS BOARD'
+    Email: 'joelyn_oh@nparks.gov.sg'
+Sources:
+  - 'National Parks Board'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Ad-hoc'
+Last Updated: '2019-09-08T00:08:43.903187'
+Resources:
+  -
+    Identifier: '07df4d4c-274e-4b3a-af1d-7f79e43800d4'
+    Title: 'Heritage Trees (KML)'
+    Url: 'https://geo.data.gov.sg/heritagetrees/2019/08/27/kml/heritagetrees.kml'
+    Format: 'KML'
+    Last Updated: '2019-08-26T16:00:00'
+  -
+    Identifier: '9c0c90ee-62ba-4f4c-a868-dd4dd90508b8'
+    Title: 'Heritage Trees (GEOJSON)'
+    Url: 'https://geo.data.gov.sg/heritagetrees/2019/08/27/geojson/heritagetrees.geojson'
+    Format: 'GeoJSON'
+    Last Updated: '2019-08-26T16:00:00'

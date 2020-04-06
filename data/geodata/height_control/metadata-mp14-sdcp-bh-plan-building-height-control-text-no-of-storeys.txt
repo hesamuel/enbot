@@ -1,0 +1,36 @@
+# Metadata for MP14 SDCP BH PLAN - Building Height Control Text (No of storeys)
+---
+Identifier: 'e74e2e1c-e3e6-4b9a-85ce-8e6b270c8425'
+Name: 'mp14-sdcp-bh-plan-building-height-control-text-no-of-storeys'
+Title: 'MP14 SDCP BH PLAN - Building Height Control Text (No of storeys)'
+Description: 'Annotation of the Building Height Control (in no of storeys).'
+Topics:
+  - 'Infrastructure'
+Keywords:
+  - 'MP14'
+  - 'Master Plan 2014 Building Height Control'
+  - 'No of storeys'
+Publisher:
+  Name: 'Urban Redevelopment Authority'
+  Admin 1:
+    Name: 'Pamela Poh'
+    Department: 'Urban Redevelopment Authority'
+    Email: 'pamela_poh@ura.gov.sg'
+Sources:
+  - 'Urban Redevelopment Authority'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Ad-hoc'
+Last Updated: '2017-06-14T08:10:38.576673'
+Resources:
+  -
+    Identifier: 'd6e9e9c7-fe39-498d-b863-627724352287'
+    Title: 'MP14 SDCP BH PLAN - Building Height Control Text (No of storeys) (KML)'
+    Url: 'https://geo.data.gov.sg/g-mp14-buildhtctrl-sty-an/2016/01/20/kml/g-mp14-buildhtctrl-sty-an.zip'
+    Format: 'KML'
+    Last Updated: '2016-01-19T16:00:00'
+  -
+    Identifier: '9708b08b-78d9-4b4f-8d47-b69da3647f24'
+    Title: 'MP14 SDCP BH PLAN - Building Height Control Text (No of storeys) (SHP)'
+    Url: 'https://geo.data.gov.sg/g-mp14-buildhtctrl-sty-an/2016/01/20/shp/g-mp14-buildhtctrl-sty-an.zip'
+    Format: 'SHP'
+    Last Updated: '2016-01-19T16:00:00'
