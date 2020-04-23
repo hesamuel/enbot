@@ -57,7 +57,8 @@ We created two sets of data for our model:
 > **Post-1986 Blocks**: The blocks in our second dataset will all be standing blocks built after 1986. All these blocks are currently still standing. Our trained model aims predict which blocks will come next.
 
 #### Modelling
-<img src="./assets/readme_models.png" align="center" width="80%" margin="0" ></img> 
+<img src="./assets/readme_models.png" align="center" width="100%" margin="0" ></img>
+
 We auditioned different models before deciding on a bootstrapped Gradient Boosting Classifier. Our top choices were all Classifier Trees(although we were really rooting(no pun intended) for a Logistic Regression model as its results would be more interpretable). 
 Although Random Forests had a perfect precision score, the Gradient Boosting Classifier's scores are higher across multiple metrics. 
 Despite its performance on the training set, our model did not generalise well in with the data in our unseen test set. More on that in our evaluation below. 
