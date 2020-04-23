@@ -1,0 +1,392 @@
+latest_survival_date,year_completed,blk_no,street,max_floor_lvl,bldg_contract_town,total_dwelling_units,1room_sold,2room_sold,3room_sold,4room_sold,5room_sold,exec_sold,other_sold,is_demolished,latitude,longitude,car_park_no,car_park_type,type_of_parking_system,short_term_parking,free_parking,night_parking,car_park_decks,gantry_height,car_park_basement
+1995-08-22,1952.0,2,boon tiong rd / tiong bahru rd,4,bm,24.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,1,1.286365781,103.8287899,te28,surface car park,coupon parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+1995-08-22,1952.0,16,boon tiong rd / tiong bahru rd,4,bm,24.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,1,1.286986868,103.8296302,te28,surface car park,coupon parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+1996-02-08,1972.0,77,redhill rd,16,bm,192.0,0.0,0.0,192.0,0.0,0.0,0.0,0.0,1,1.28841105,103.8169441,te28,surface car park,coupon parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+1995-08-22,1952.0,4,boon tiong rd / tiong bahru rd,4,bm,24.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,1,1.286986868,103.8296302,te13,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,9.99,n
+1995-08-22,1952.0,14,boon tiong rd / tiong bahru rd,4,bm,24.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,1,1.286827152,103.8286595,te13,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,9.99,n
+1997-02-17,1974.0,127,kim tian rd,10,bm,110.0,0.0,0.0,110.0,0.0,0.0,0.0,0.0,1,1.281861427,103.8292926,te13,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,9.99,n
+1995-08-22,1952.0,6,boon tiong rd / tiong bahru rd,4,bm,24.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,1,1.28652537,103.8301248,te30,surface car park,coupon parking,no,no,no,0,0.0,n
+1995-08-22,1952.0,5,boon tiong rd / tiong bahru rd,4,bm,24.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,1,1.286365781,103.8287899,te30,surface car park,coupon parking,no,no,no,0,0.0,n
+2007-02-23,1949.0,17,silat walk / kg bahru hill / silat rd,4,bm,23.0,0.0,0.0,11.0,12.0,0.0,0.0,0.0,1,1.276883151,103.8308839,te30,surface car park,coupon parking,no,no,no,0,0.0,n
+1995-08-22,1952.0,8,boon tiong rd / tiong bahru rd,4,bm,24.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,1,1.286986868,103.8296302,te23,surface car park,coupon parking,whole day,no,yes,0,0.0,n
+1995-08-22,1952.0,10,boon tiong rd / tiong bahru rd,4,bm,24.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,1,1.286358471,103.8296262,te23,surface car park,coupon parking,whole day,no,yes,0,0.0,n
+1995-08-22,1952.0,13,boon tiong rd / tiong bahru rd,4,bm,24.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,1,1.28684456,103.829123,te23,surface car park,coupon parking,whole day,no,yes,0,0.0,n
+1995-08-22,1952.0,1,boon tiong rd / tiong bahru rd,4,bm,24.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,1,1.286967542,103.8307277,te23,surface car park,coupon parking,whole day,no,yes,0,0.0,n
+1997-02-17,1963.0,51,nile rd,10,bm,118.0,0.0,28.0,90.0,0.0,0.0,0.0,0.0,1,1.289946185,103.8276797,te23,surface car park,coupon parking,whole day,no,yes,0,0.0,n
+1997-10-17,1972.0,137a,alexandra rd / tiong bahru rd,18,bm,146.0,0.0,5.0,126.0,13.0,2.0,0.0,0.0,1,1.28969743,103.8082695,te23,surface car park,coupon parking,whole day,no,yes,0,0.0,n
+1997-10-17,1972.0,139,alexandra rd / tiong bahru rd,18,bm,146.0,0.0,5.0,126.0,13.0,2.0,0.0,0.0,1,1.273063846,103.8036203,te23,surface car park,coupon parking,whole day,no,yes,0,0.0,n
+2000-07-30,1968.0,70,telok blangah heights,11,bm,82.0,0.0,8.0,68.0,2.0,3.0,1.0,0.0,1,1.276318471,103.810719,te23,surface car park,coupon parking,whole day,no,yes,0,0.0,n
+2007-02-23,1952.0,27,silat walk / kg bahru hill / silat rd,4,bm,11.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,1,1.277276965,103.8310934,te23,surface car park,coupon parking,whole day,no,yes,0,0.0,n
+1995-08-22,1952.0,12,boon tiong rd / tiong bahru rd,4,bm,24.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,1,1.286830114,103.8332871,te27,surface car park,coupon parking,whole day,no,yes,0,0.0,n
+1995-08-22,1952.0,11,boon tiong rd / tiong bahru rd,4,bm,24.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,1,1.286365781,103.8287899,te27,surface car park,coupon parking,whole day,no,yes,0,0.0,n
+1997-02-17,1974.0,126,kim tian rd,10,bm,109.0,0.0,0.0,109.0,0.0,0.0,0.0,0.0,1,1.282534669,103.82947,te27,surface car park,coupon parking,whole day,no,yes,0,0.0,n
+1997-02-17,1963.0,53,nile rd,10,bm,120.0,0.0,30.0,90.0,0.0,0.0,0.0,0.0,1,1.289946185,103.8276797,te27,surface car park,coupon parking,whole day,no,yes,0,0.0,n
+1997-02-17,1963.0,54,nile rd,10,bm,120.0,0.0,30.0,90.0,0.0,0.0,0.0,0.0,1,1.289841532,103.8284263,te27,surface car park,coupon parking,whole day,no,yes,0,0.0,n
+1997-10-17,1972.0,136,alexandra rd / tiong bahru rd,18,bm,146.0,0.0,5.0,126.0,13.0,2.0,0.0,0.0,1,1.289003462,103.8043293,te27,surface car park,coupon parking,whole day,no,yes,0,0.0,n
+2000-07-30,1968.0,71,telok blangah heights,11,bm,82.0,0.0,8.0,68.0,2.0,3.0,1.0,0.0,1,1.275767348,103.8110327,te27,surface car park,coupon parking,whole day,no,yes,0,0.0,n
+2007-02-23,1952.0,22,silat walk / kg bahru hill / silat rd,4,bm,23.0,0.0,0.0,11.0,12.0,0.0,0.0,0.0,1,1.276368603,103.8294778,te27,surface car park,coupon parking,whole day,no,yes,0,0.0,n
+2007-02-23,1952.0,24,silat walk / kg bahru hill / silat rd,4,bm,15.0,0.0,0.0,11.0,4.0,0.0,0.0,0.0,1,1.277077068,103.8314259,te27,surface car park,coupon parking,whole day,no,yes,0,0.0,n
+2007-02-23,1952.0,25,silat walk / kg bahru hill / silat rd,4,bm,11.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,1,1.276390119,103.8302713,te27,surface car park,coupon parking,whole day,no,yes,0,0.0,n
+2007-02-23,1952.0,30,silat walk / kg bahru hill / silat rd,4,bm,11.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,1,1.277276965,103.8310934,te27,surface car park,coupon parking,whole day,no,yes,0,0.0,n
+1995-08-22,1952.0,3,boon tiong rd / tiong bahru rd,4,bm,24.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,1,1.28684456,103.829123,te9,surface car park,coupon parking,whole day,no,yes,0,2.4,n
+1995-08-22,1952.0,7,boon tiong rd / tiong bahru rd,4,bm,24.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,1,1.286830114,103.8332871,te9,surface car park,coupon parking,whole day,no,yes,0,2.4,n
+1996-02-08,1972.0,67,redhill rd,16,bm,192.0,0.0,0.0,192.0,0.0,0.0,0.0,0.0,1,1.288381067,103.8173911,te9,surface car park,coupon parking,whole day,no,yes,0,2.4,n
+1997-10-17,1972.0,137,alexandra rd / tiong bahru rd,18,bm,146.0,0.0,5.0,126.0,13.0,2.0,0.0,0.0,1,1.273692712,103.8043359,te9,surface car park,coupon parking,whole day,no,yes,0,2.4,n
+1997-10-17,1972.0,138,alexandra rd / tiong bahru rd,18,bm,146.0,0.0,5.0,126.0,13.0,2.0,0.0,0.0,1,1.290583531,103.8047276,te9,surface car park,coupon parking,whole day,no,yes,0,2.4,n
+1997-10-17,1972.0,142,alexandra rd / tiong bahru rd,18,bm,146.0,0.0,5.0,126.0,13.0,2.0,0.0,0.0,1,1.292703398,103.810959,te9,surface car park,coupon parking,whole day,no,yes,0,2.4,n
+1995-08-22,1952.0,9,boon tiong rd / tiong bahru rd,4,bm,24.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,1,1.286835248,103.8313476,te22,surface car park,coupon parking,whole day,no,yes,0,0.0,n
+2007-02-23,1952.0,28,silat walk / kg bahru hill / silat rd,4,bm,11.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,1,1.277276965,103.8310934,te22,surface car park,coupon parking,whole day,no,yes,0,0.0,n
+2007-02-23,1952.0,29,silat walk / kg bahru hill / silat rd,4,bm,11.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,1,1.277276965,103.8310934,te22,surface car park,coupon parking,whole day,no,yes,0,0.0,n
+1995-08-22,1952.0,15,boon tiong rd / tiong bahru rd,4,bm,24.0,0.0,0.0,24.0,0.0,0.0,0.0,0.0,1,1.28652537,103.8301248,h11,surface car park,coupon parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2007-02-23,1949.0,19,silat walk / kg bahru hill / silat rd,4,bm,23.0,0.0,0.0,11.0,12.0,0.0,0.0,0.0,1,1.276883151,103.8308839,h11,surface car park,coupon parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+1995-09-01,1971.0,145,lor 2 toa payoh,4,tp,82.0,0.0,0.0,65.0,17.0,0.0,0.0,0.0,1,1.335210354,103.8461629,tpm7,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,12,2.15,n
+1995-09-01,1971.0,147,lor 2 toa payoh,4,tp,82.0,0.0,0.0,65.0,17.0,0.0,0.0,0.0,1,1.334546832,103.8450777,tpm7,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,12,2.15,n
+1995-09-01,1971.0,151,lor 2 toa payoh,4,tp,82.0,0.0,0.0,65.0,17.0,0.0,0.0,0.0,1,1.335787912,103.847992,tpm7,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,12,2.15,n
+1995-09-01,1971.0,152,lor 2 toa payoh,12,tp,154.0,0.0,0.0,0.0,154.0,0.0,0.0,0.0,1,1.334167085,103.8458911,tpm7,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,12,2.15,n
+1995-11-08,1975.0,103,depot rd,14,bm,176.0,0.0,0.0,0.0,176.0,0.0,0.0,0.0,1,1.2807369240000002,103.8131357,tb14,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1995-11-08,1975.0,110,depot rd,11,bm,165.0,0.0,0.0,164.0,0.0,1.0,0.0,0.0,1,1.281387539,103.8093625,tb14,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1995-11-08,1975.0,111,depot rd,11,bm,165.0,0.0,0.0,164.0,0.0,1.0,0.0,0.0,1,1.281122693,103.8086879,tb14,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1995-11-08,1975.0,105,depot rd,11,bm,165.0,0.0,0.0,164.0,0.0,1.0,0.0,0.0,1,1.28089298,103.8123553,tb14,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1995-11-08,1975.0,107,depot rd,11,bm,165.0,0.0,0.0,164.0,0.0,1.0,0.0,0.0,1,1.28131575,103.8078619,tb14,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1995-11-08,1975.0,112,depot rd,11,bm,167.0,0.0,0.0,166.0,0.0,1.0,0.0,0.0,1,1.28131575,103.8078619,tb14,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1996-02-08,1970.0,71,redhill rd,10,bm,136.0,136.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1.287319025,103.8174756,jrtm,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,12,2.15,n
+2007-02-23,1949.0,18,silat walk / kg bahru hill / silat rd,4,bm,23.0,0.0,0.0,11.0,12.0,0.0,0.0,0.0,1,1.276280878,103.8297954,jrtm,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,12,2.15,n
+1996-02-08,1970.0,72,redhill rd,10,bm,92.0,92.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1.287405027,103.816392,h18,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,6,2.15,n
+1998-10-07,1970.0,24,jln membina barat / lower delta rd,12,bm,102.0,0.0,4.0,97.0,0.0,1.0,0.0,0.0,1,1.282634376,103.8255958,h18,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,6,2.15,n
+1998-10-07,1970.0,31,jln membina barat / lower delta rd,12,bm,102.0,0.0,4.0,97.0,0.0,1.0,0.0,0.0,1,1.285697429,103.8267854,h18,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,6,2.15,n
+1998-10-07,1972.0,32,jln membina barat / lower delta rd,12,bm,121.0,0.0,3.0,109.0,8.0,1.0,0.0,0.0,1,1.282908655,103.824868,h18,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,6,2.15,n
+1998-10-07,1964.0,102,lower delta rd,12,bm,97.0,0.0,16.0,78.0,3.0,0.0,0.0,0.0,1,1.281214142,103.8230395,h18,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,6,2.15,n
+1998-10-07,1964.0,103,lower delta rd,12,bm,97.0,0.0,16.0,78.0,3.0,0.0,0.0,0.0,1,1.28875833,103.8257346,h18,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,6,2.15,n
+2007-02-23,1952.0,23,silat walk / kg bahru hill / silat rd,4,bm,23.0,0.0,0.0,11.0,12.0,0.0,0.0,0.0,1,1.277276965,103.8310934,h18,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,6,2.15,n
+1996-04-30,1969.0,6a,margaret dr,16,queenstown,108.0,0.0,0.0,108.0,0.0,0.0,0.0,0.0,1,1.298331096,103.8045159,q16,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2001-02-17,1971.0,172,stirling rd,12,queenstown,97.0,0.0,3.0,90.0,3.0,1.0,0.0,0.0,1,1.291614775,103.8050527,q16,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2001-02-17,1971.0,173,stirling rd,12,queenstown,97.0,0.0,3.0,90.0,3.0,1.0,0.0,0.0,1,1.297386857,103.803034,q16,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2001-02-17,1971.0,174,stirling rd,12,queenstown,97.0,0.0,3.0,90.0,3.0,1.0,0.0,0.0,1,1.292102087,103.8023613,q16,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2001-02-17,1971.0,175,stirling rd,12,queenstown,97.0,0.0,3.0,90.0,3.0,1.0,0.0,0.0,1,1.292996047,103.8056656,q16,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2005-04-21,1974.0,15,holland ave / dr,20,qt,142.0,0.0,0.0,86.0,50.0,6.0,0.0,0.0,1,1.31070815,103.7955773,q16,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2005-12-29,1969.0,39a,c'wealth ave,11,queenstown,142.0,0.0,0.0,141.0,0.0,1.0,0.0,0.0,1,1.311527153,103.7705036,q16,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+1996-04-30,1969.0,6b,margaret dr,16,queenstown,108.0,0.0,0.0,108.0,0.0,0.0,0.0,0.0,1,1.298033809,103.80494509999998,q15,surface car park,coupon parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2005-04-21,1974.0,14,holland ave / dr,20,qt,142.0,0.0,0.0,86.0,50.0,6.0,0.0,0.0,1,1.310555452,103.7955411,q15,surface car park,coupon parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+1996-04-30,1956.0,39,forfar house,14,queenstown,106.0,0.0,0.0,106.0,0.0,0.0,0.0,0.0,1,1.293335605,103.8076139,q65a,surface car park,coupon parking,7am-10.30pm,sun & ph fr 7am-10.30pm,no,0,0.0,n
+2003-01-13,1962.0,50,tanglin halt,10,queenstown,114.0,0.0,28.0,79.0,6.0,0.0,0.0,1.0,1,1.3004269309999998,103.7973598,q65a,surface car park,coupon parking,7am-10.30pm,sun & ph fr 7am-10.30pm,no,0,0.0,n
+2003-01-13,1962.0,51,tanglin halt,10,queenstown,116.0,0.0,27.0,83.0,4.0,0.0,0.0,2.0,1,1.29895181,103.7985417,q65a,surface car park,coupon parking,7am-10.30pm,sun & ph fr 7am-10.30pm,no,0,0.0,n
+2005-04-21,1974.0,16,holland ave / dr,20,qt,142.0,0.0,0.0,86.0,50.0,6.0,0.0,0.0,1,1.307555926,103.7944436,q65a,surface car park,coupon parking,7am-10.30pm,sun & ph fr 7am-10.30pm,no,0,0.0,n
+2005-12-29,1969.0,6c,margaret dr,11,queenstown,169.0,0.0,0.0,169.0,0.0,0.0,0.0,0.0,1,1.297960614,103.8053687,q65a,surface car park,coupon parking,7am-10.30pm,sun & ph fr 7am-10.30pm,no,0,0.0,n
+2005-12-29,1971.0,27a,c'wealth ave,11,queenstown,226.0,0.0,0.0,220.0,0.0,6.0,0.0,0.0,1,1.294550852,103.8060772,q65a,surface car park,coupon parking,7am-10.30pm,sun & ph fr 7am-10.30pm,no,0,0.0,n
+1996-05-27,1966.0,6,chai chee rd,5,bd,40.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,1,1.327437082,103.9227725,cc4,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,5.4,n
+1996-05-28,1967.0,7,chai chee rd,12,bd,128.0,0.0,49.0,79.0,0.0,0.0,0.0,0.0,1,1.327103643,103.9249213,cc4,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,5.4,n
+1996-06-30,1978.0,309,ang mo kio ave 1,12,amk,255.0,255.0,0.0,0.0,0.0,0.0,0.0,0.0,1,1.361097527,103.8466134,a4,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1996-06-30,1978.0,315,ang mo kio ave 1,11,amk,190.0,0.0,0.0,166.0,24.0,0.0,0.0,0.0,1,1.363115363,103.852217,a4,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1996-06-30,1978.0,316,ang mo kio ave 1,11,amk,190.0,0.0,0.0,166.0,24.0,0.0,0.0,0.0,1,1.373172415,103.8551837,a4,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1996-06-30,1978.0,307,ang mo kio ave 1,11,amk,190.0,0.0,0.0,166.0,24.0,0.0,0.0,0.0,1,1.366095605,103.8445195,a4,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1996-06-30,1978.0,308,ang mo kio ave 1,11,amk,191.0,0.0,0.0,166.0,25.0,0.0,0.0,0.0,1,1.365271188,103.8448187,a4,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2006-06-22,1976.0,249,ang mo kio ave 2/ ang mo kio ave 3/ang mo kio ave 4,4,amk,48.0,0.0,0.0,48.0,0.0,0.0,0.0,0.0,1,1.376880537,103.8343234,a4,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1996-09-09,1971.0,139,corporation dr / hu ching rd,10,jw,100.0,0.0,0.0,97.0,2.0,1.0,0.0,0.0,1,1.33889981,103.7201537,bl18,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,10,2.15,n
+1996-09-09,1971.0,141,corporation dr / hu ching rd,10,jw,100.0,0.0,0.0,97.0,2.0,1.0,0.0,0.0,1,1.327531209,103.7234229,bl18,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,10,2.15,n
+1998-10-07,1980.0,3,lim chu kang rd,4,jw,22.0,0.0,0.0,17.0,5.0,0.0,0.0,0.0,1,1.438182666,103.7050552,bl18,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,10,2.15,n
+1998-10-07,1980.0,4,lim chu kang rd,4,jw,22.0,0.0,0.0,17.0,5.0,0.0,0.0,0.0,1,1.421752493,103.7045792,bl18,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,10,2.15,n
+1996-09-09,1971.0,140,corporation dr / hu ching rd,10,jw,100.0,0.0,0.0,97.0,2.0,1.0,0.0,0.0,1,1.326873824,103.7234212,bl10,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,9.99,n
+2004-07-28,1971.0,103,tao ching rd,10,jw,100.0,0.0,0.0,97.0,2.0,1.0,0.0,0.0,1,1.332487803,103.7241923,bl10,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,9.99,n
+1996-09-09,1971.0,142,corporation dr / hu ching rd,10,jw,100.0,0.0,0.0,97.0,2.0,1.0,0.0,0.0,1,1.332924737,103.7224504,tj18,surface car park,coupon parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1996-09-09,1971.0,143,corporation dr / hu ching rd,10,jw,100.0,0.0,0.0,97.0,2.0,1.0,0.0,0.0,1,1.332924737,103.7224504,tj18,surface car park,coupon parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1998-10-07,1980.0,5,lim chu kang rd,4,jw,22.0,0.0,0.0,17.0,5.0,0.0,0.0,0.0,1,1.422046938,103.7040017,tj18,surface car park,coupon parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2006-03-22,1973.0,5,yung ping rd / yung kuang rd,11,jw,103.0,0.0,0.0,102.0,0.0,1.0,0.0,0.0,1,1.329675591,103.7226418,tj18,surface car park,coupon parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2006-03-22,1973.0,6,yung ping rd / yung kuang rd,11,jw,103.0,0.0,0.0,102.0,0.0,1.0,0.0,0.0,1,1.330340503,103.7226634,tj18,surface car park,coupon parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2006-03-22,1973.0,7,yung ping rd / yung kuang rd,11,jw,103.0,0.0,0.0,102.0,0.0,1.0,0.0,0.0,1,1.329675591,103.7226418,tj18,surface car park,coupon parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2006-03-22,1973.0,8,yung ping rd / yung kuang rd,11,jw,103.0,0.0,0.0,102.0,0.0,1.0,0.0,0.0,1,1.330340503,103.7226634,tj18,surface car park,coupon parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2006-03-22,1973.0,9,yung ping rd / yung kuang rd,11,jw,103.0,0.0,0.0,102.0,0.0,1.0,0.0,0.0,1,1.329776329,103.7215859,tj18,surface car park,coupon parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2006-03-22,1973.0,10,yung ping rd / yung kuang rd,11,jw,104.0,0.0,0.0,100.0,0.0,4.0,0.0,0.0,1,1.329675591,103.7226418,tj18,surface car park,coupon parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1996-12-05,1975.0,18,holland dr,10,qt,107.0,0.0,0.0,106.0,0.0,1.0,0.0,0.0,1,1.311580651,103.7919258,q81,surface car park,electronic parking,whole day,no,yes,0,9.99,n
+1996-12-05,1975.0,19,holland dr,10,qt,72.0,0.0,0.0,0.0,72.0,0.0,0.0,0.0,1,1.310637508,103.7915061,q81,surface car park,electronic parking,whole day,no,yes,0,9.99,n
+1997-02-17,1971.0,79,toa payoh ctrl,10,tp,374.0,0.0,0.0,374.0,0.0,0.0,0.0,0.0,1,1.334660579,103.8485778,tp20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1997-02-17,1973.0,89,toa payoh lor 2,10,tp,198.0,0.0,0.0,198.0,0.0,0.0,0.0,0.0,1,1.336287068,103.8465138,tp20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1999-10-29,1974.0,136,lor 1a toa payoh,12,tp,118.0,2.0,1.0,99.0,14.0,2.0,0.0,0.0,1,1.336277758,103.8440449,tp20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1999-10-29,1974.0,137,lor 1a toa payoh,12,tp,118.0,2.0,1.0,99.0,14.0,2.0,0.0,0.0,1,1.336264137,103.8449074,tp20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1999-10-29,1969.0,164,lor 1 toa payoh,11,tp,94.0,0.0,7.0,84.0,2.0,1.0,0.0,0.0,1,1.340508942,103.8510407,tp20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1999-10-29,1969.0,165,lor 1 toa payoh,11,tp,94.0,0.0,7.0,84.0,2.0,1.0,0.0,0.0,1,1.338130115,103.8421461,tp20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1999-10-29,1969.0,166,lor 1 toa payoh,11,tp,94.0,0.0,7.0,84.0,2.0,1.0,0.0,0.0,1,1.337007309,103.8428486,tp20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1999-10-29,1969.0,167,lor 1 toa payoh,11,tp,94.0,0.0,7.0,84.0,2.0,1.0,0.0,0.0,1,1.338216538,103.8440641,tp20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1997-02-17,1979.0,454,ang mo kio ave 10,12,amk,143.0,0.0,0.0,121.0,22.0,0.0,0.0,0.0,1,1.360135795,103.8550256,a38,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1997-02-17,1979.0,455,ang mo kio ave 10,12,amk,143.0,0.0,0.0,121.0,22.0,0.0,0.0,0.0,1,1.3677722140000002,103.8581492,a38,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2006-06-22,1976.0,247,ang mo kio ave 2/ ang mo kio ave 3/ang mo kio ave 4,12,amk,88.0,0.0,0.0,0.0,55.0,33.0,0.0,0.0,1,1.377018506,103.8335752,a38,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1997-04-25,1979.0,580,ang mo kio ave 3,12,amk,120.0,0.0,0.0,100.0,20.0,0.0,0.0,0.0,1,1.367587926,103.8445967,a88,surface car park,electronic parking,7am-10.30pm,sun & ph fr 7am-10.30pm,no,0,0.0,n
+1997-04-25,1979.0,581,ang mo kio ave 3,12,amk,120.0,0.0,0.0,100.0,20.0,0.0,0.0,0.0,1,1.367279724,103.8346261,a88,surface car park,electronic parking,7am-10.30pm,sun & ph fr 7am-10.30pm,no,0,0.0,n
+1997-04-25,1979.0,582,ang mo kio ave 3,14,amk,196.0,0.0,0.0,166.0,30.0,0.0,0.0,0.0,1,1.367541521,103.8478092,a88,surface car park,electronic parking,7am-10.30pm,sun & ph fr 7am-10.30pm,no,0,0.0,n
+2006-06-22,1976.0,248,ang mo kio ave 2/ ang mo kio ave 3/ang mo kio ave 4,12,amk,102.0,0.0,0.0,0.0,8.0,94.0,0.0,0.0,1,1.3772851119999998,103.8335313,a88,surface car park,electronic parking,7am-10.30pm,sun & ph fr 7am-10.30pm,no,0,0.0,n
+1997-04-25,1976.0,24,dover cres,14,qt,130.0,0.0,0.0,0.0,130.0,0.0,0.0,0.0,1,1.305422783,103.7813204,ar2l,surface car park,electronic parking,no,no,no,0,0.0,n
+1997-04-25,1975.0,28,dover cres,14,qt,147.0,0.0,0.0,147.0,0.0,0.0,0.0,0.0,1,1.304763568,103.7816972,ar2l,surface car park,electronic parking,no,no,no,0,0.0,n
+1997-04-25,1971.0,3,syed alwi rd,17,kwn,58.0,0.0,0.0,44.0,14.0,0.0,0.0,0.0,1,1.307644018,103.8580491,jb3,surface car park,electronic parking,7am-10.30pm,no,no,0,0.0,n
+2001-03-11,1972.0,8,upp boon keng rd,18,kwn,146.0,0.0,5.0,126.0,13.0,2.0,0.0,0.0,1,1.312707295,103.8706906,jb3,surface car park,electronic parking,7am-10.30pm,no,no,0,0.0,n
+1997-04-25,1971.0,4,syed alwi rd,17,kwn,58.0,0.0,0.0,44.0,14.0,0.0,0.0,0.0,1,1.307311923,103.8584267,br21,surface car park,coupon parking,7am-10.30pm,sun & ph fr 7am-10.30pm,no,0,0.0,n
+1999-03-18,1973.0,8,tronoh rd,12,kwn,118.0,2.0,1.0,104.0,10.0,1.0,0.0,0.0,1,1.31721083,103.8728052,br21,surface car park,coupon parking,7am-10.30pm,sun & ph fr 7am-10.30pm,no,0,0.0,n
+2001-03-11,1972.0,9,upp boon keng rd,18,kwn,146.0,0.0,5.0,126.0,13.0,2.0,0.0,0.0,1,1.31627846,103.8738512,br21,surface car park,coupon parking,7am-10.30pm,sun & ph fr 7am-10.30pm,no,0,0.0,n
+1997-04-25,1971.0,5,syed alwi rd,17,kwn,59.0,0.0,0.0,44.0,15.0,0.0,0.0,0.0,1,1.30775049,103.8579292,jb2,surface car park,electronic parking,7am-10.30pm,no,no,0,0.0,n
+1997-10-17,1981.0,135,tah ching rd,12,jw,141.0,0.0,1.0,83.0,45.0,11.0,1.0,0.0,1,1.337332246,103.721601,bl13,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1997-10-17,1981.0,136,tah ching rd,12,jw,141.0,0.0,1.0,83.0,45.0,11.0,1.0,0.0,1,1.337115314,103.7232224,bl13,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1997-10-17,1981.0,137,tah ching rd,12,jw,141.0,0.0,1.0,83.0,45.0,11.0,1.0,0.0,1,1.3368180790000002,103.7239146,tj36,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,10,2.1,n
+1997-10-17,1981.0,138,tah ching rd,12,jw,141.0,0.0,1.0,83.0,45.0,11.0,1.0,0.0,1,1.337450347,103.72239559999998,j30,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1997-10-17,1980.0,439,clementi ave 3,6,cl,27.0,0.0,0.0,24.0,3.0,0.0,0.0,0.0,1,1.316145836,103.7632932,c18,surface car park,electronic parking,whole day,no,yes,0,4.5,n
+1997-10-17,1980.0,440,clementi ave 3,6,cl,27.0,0.0,0.0,24.0,3.0,0.0,0.0,0.0,1,1.316231145,103.7639377,c18,surface car park,electronic parking,whole day,no,yes,0,4.5,n
+2005-03-28,1980.0,436,clementi ave 3,6,cl,27.0,0.0,0.0,24.0,3.0,0.0,0.0,0.0,1,1.3135388609999998,103.7654763,c18,surface car park,electronic parking,whole day,no,yes,0,4.5,n
+2005-03-28,1980.0,437,clementi ave 3,6,cl,27.0,0.0,0.0,24.0,3.0,0.0,0.0,0.0,1,1.311921068,103.7660169,c18,surface car park,electronic parking,whole day,no,yes,0,4.5,n
+2005-03-28,1980.0,438,clementi ave 3,6,cl,27.0,0.0,0.0,24.0,3.0,0.0,0.0,0.0,1,1.312123221,103.7638921,c18,surface car park,electronic parking,whole day,no,yes,0,4.5,n
+2005-03-28,1980.0,445,clementi ave 3,6,cl,27.0,0.0,0.0,24.0,3.0,0.0,0.0,0.0,1,1.313359326,103.7639026,c18,surface car park,electronic parking,whole day,no,yes,0,4.5,n
+1997-10-17,1972.0,136a,alexandra rd / tiong bahru rd,18,bm,146.0,0.0,5.0,126.0,13.0,2.0,0.0,0.0,1,1.289003462,103.8043293,te21,surface car park,coupon parking,no,no,no,0,0.0,n
+2007-02-23,1952.0,31,silat walk / kg bahru hill / silat rd,3,bm,15.0,0.0,0.0,12.0,0.0,0.0,0.0,3.0,1,1.276629534,103.8291052,te21,surface car park,coupon parking,no,no,no,0,0.0,n
+1997-10-17,1972.0,140,alexandra rd / tiong bahru rd,18,bm,146.0,0.0,5.0,126.0,13.0,2.0,0.0,0.0,1,1.291487202,103.819827,te29,surface car park,coupon parking,no,no,no,0,0.0,n
+2007-02-23,1952.0,26,silat walk / kg bahru hill / silat rd,4,bm,11.0,0.0,0.0,11.0,0.0,0.0,0.0,0.0,1,1.276280878,103.8297954,te29,surface car park,coupon parking,no,no,no,0,0.0,n
+1997-10-17,1972.0,145,alexandra rd / tiong bahru rd,18,bm,146.0,0.0,5.0,126.0,13.0,2.0,0.0,0.0,1,1.290217095,103.8050788,h14,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,10,1.9,n
+2003-02-24,1969.0,29,havelock rd / taman ho swee,18,bm,129.0,0.0,10.0,117.0,1.0,1.0,0.0,0.0,1,1.289946185,103.8276797,h14,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,10,1.9,n
+2003-02-24,1969.0,31,havelock rd / taman ho swee,18,bm,129.0,0.0,10.0,117.0,1.0,1.0,0.0,0.0,1,1.288746037,103.8288242,h14,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,10,1.9,n
+2003-02-24,1969.0,33,havelock rd / taman ho swee,12,bm,94.0,0.0,6.0,85.0,2.0,1.0,0.0,0.0,1,1.288475431,103.8328482,h14,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,10,1.9,n
+1998-02-13,1977.0,78,telok blangah dr,14,bm,142.0,0.0,2.0,90.0,44.0,5.0,1.0,0.0,1,1.273332575,103.8110858,tbm,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,12,1.8,n
+1998-02-13,1977.0,80,telok blangah dr,14,bm,142.0,0.0,2.0,90.0,44.0,5.0,1.0,0.0,1,1.271782149,103.8106058,tbm,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,12,1.8,n
+1998-02-13,1977.0,81,telok blangah dr,14,bm,142.0,0.0,2.0,90.0,44.0,5.0,1.0,0.0,1,1.2735133790000002,103.8101453,tbm,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,12,1.8,n
+1998-02-13,1978.0,12,teban gdns rd,15,je,148.0,0.0,2.0,83.0,54.0,8.0,1.0,0.0,1,1.321499034,103.7389822,j3,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1998-02-13,1978.0,19,teban gdns rd,15,je,148.0,0.0,2.0,83.0,54.0,8.0,1.0,0.0,1,1.321138966,103.7427876,j3,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2007-07-12,1976.0,7,teban gdns rd,10,je,40.0,0.0,0.0,0.0,0.0,40.0,0.0,0.0,1,1.321138966,103.7427876,j3,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2007-07-12,1976.0,10,teban gdns rd,20,je,120.0,0.0,0.0,0.0,120.0,0.0,0.0,0.0,1,1.322136363,103.7382928,j3,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1998-02-13,1978.0,13,teban gdns rd,15,je,148.0,0.0,2.0,83.0,54.0,8.0,1.0,0.0,1,1.322136363,103.7382928,p13,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+1998-02-13,1978.0,21,teban gdns rd,15,je,148.0,0.0,2.0,83.0,54.0,8.0,1.0,0.0,1,1.323638045,103.7397308,p13,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2007-07-12,1976.0,3,teban gdns rd,14,je,110.0,0.0,0.0,110.0,0.0,0.0,0.0,0.0,1,1.32378355,103.7385184,p13,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+1998-02-13,1978.0,14,teban gdns rd,15,je,148.0,0.0,2.0,83.0,54.0,8.0,1.0,0.0,1,1.321173097,103.7389324,j7,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1998-02-13,1978.0,17,teban gdns rd,15,je,148.0,0.0,2.0,83.0,54.0,8.0,1.0,0.0,1,1.32378355,103.7385184,j1,surface car park,electronic parking,whole day,no,yes,0,5.4,n
+1998-02-13,1978.0,22,teban gdns rd,15,je,148.0,0.0,2.0,83.0,54.0,8.0,1.0,0.0,1,1.32277239,103.7397143,p14,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+1998-02-13,1978.0,23,teban gdns rd,15,je,148.0,0.0,2.0,83.0,54.0,8.0,1.0,0.0,1,1.322857732,103.7392387,p11,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2007-07-12,1976.0,5,teban gdns rd,14,je,110.0,0.0,0.0,110.0,0.0,0.0,0.0,0.0,1,1.32189197,103.7375516,p11,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2007-07-12,1976.0,9,teban gdns rd,10,je,45.0,0.0,0.0,0.0,0.0,45.0,0.0,0.0,1,1.322136363,103.7382928,p11,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+1998-07-21,1977.0,1,short st / prinsep st,16,ct,142.0,0.0,2.0,77.0,54.0,9.0,0.0,0.0,1,1.30216887,103.8502221,sr2,surface car park,coupon parking,no,no,no,0,0.0,n
+1998-07-21,1977.0,2,short st / prinsep st,16,ct,142.0,0.0,2.0,77.0,54.0,9.0,0.0,0.0,1,1.301929373,103.8504102,sr2,surface car park,coupon parking,no,no,no,0,0.0,n
+1998-07-21,1977.0,3,short st / prinsep st,16,ct,142.0,0.0,2.0,77.0,54.0,9.0,0.0,0.0,1,1.302865318,103.850972,sr2,surface car park,coupon parking,no,no,no,0,0.0,n
+1998-07-21,1983.0,21,outram pk,15,ct,123.0,0.0,0.0,38.0,59.0,17.0,9.0,0.0,1,1.281604154,103.8386525,sr2,surface car park,coupon parking,no,no,no,0,0.0,n
+1998-07-21,1983.0,28,outram pk,15,ct,123.0,0.0,0.0,38.0,59.0,17.0,9.0,0.0,1,1.279720594,103.8394399,sr2,surface car park,coupon parking,no,no,no,0,0.0,n
+2000-07-30,1976.0,16,outram hill,9,ct,119.0,0.0,2.0,91.0,22.0,4.0,0.0,0.0,1,1.284249106,103.8364328,sr2,surface car park,coupon parking,no,no,no,0,0.0,n
+2011-11-15,1977.0,1,rochor rd,17,ct,141.0,0.0,0.0,131.0,0.0,10.0,0.0,0.0,1,1.298864654,103.8573458,sr2,surface car park,coupon parking,no,no,no,0,0.0,n
+2011-11-15,1977.0,3,rochor rd,17,ct,142.0,0.0,0.0,132.0,0.0,10.0,0.0,0.0,1,1.300917989,103.8552479,sr2,surface car park,coupon parking,no,no,no,0,0.0,n
+1998-07-21,1977.0,4,short st / prinsep st,16,ct,142.0,0.0,2.0,77.0,54.0,9.0,0.0,0.0,1,1.301963725,103.8504411,tpm,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,7,1.8,n
+1998-07-21,1977.0,5,short st / prinsep st,16,ct,142.0,0.0,2.0,77.0,54.0,9.0,0.0,0.0,1,1.301963725,103.8504411,tpm,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,7,1.8,n
+2011-11-15,1977.0,4,rochor rd,17,ct,142.0,0.0,0.0,132.0,0.0,10.0,0.0,0.0,1,1.300917989,103.8552479,tpm,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,7,1.8,n
+1998-07-21,1977.0,6,short st / prinsep st,16,ct,142.0,0.0,2.0,77.0,54.0,9.0,0.0,0.0,1,1.302000263,103.8504704,prm,multi-storey car park,electronic parking,whole day,no,yes,7,2.15,n
+1998-07-21,1977.0,7,short st / prinsep st,16,ct,142.0,0.0,2.0,77.0,54.0,9.0,0.0,0.0,1,1.301963725,103.8504411,yhs,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+1998-07-21,1983.0,23,outram pk,15,ct,123.0,0.0,0.0,38.0,59.0,17.0,9.0,0.0,1,1.278948674,103.8395495,yhs,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+1998-07-21,1974.0,11,short st,9,ct,96.0,0.0,2.0,81.0,12.0,1.0,0.0,0.0,1,1.30216887,103.8502221,sls,surface car park,electronic parking,whole day,no,yes,0,4.5,n
+1998-07-21,1974.0,12,short st,9,ct,96.0,0.0,2.0,81.0,12.0,1.0,0.0,0.0,1,1.302865318,103.850972,jks,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+1998-07-21,1974.0,13,short st,9,ct,96.0,0.0,2.0,81.0,12.0,1.0,0.0,0.0,1,1.302194564,103.8505539,jks,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+1998-07-21,1983.0,27,outram pk,15,ct,123.0,0.0,0.0,38.0,59.0,17.0,9.0,0.0,1,1.278948674,103.8395495,jks,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+1998-07-21,1983.0,22,outram pk,15,ct,123.0,0.0,0.0,38.0,59.0,17.0,9.0,0.0,1,1.279060671,103.8385458,csm,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,10,1.9,n
+1998-07-21,1983.0,29,outram pk,15,ct,123.0,0.0,0.0,38.0,59.0,17.0,9.0,0.0,1,1.2813296440000002,103.8391376,sr1,surface car park,coupon parking,whole day,no,yes,0,4.5,n
+2000-07-30,1976.0,15,outram hill,9,ct,119.0,0.0,2.0,91.0,22.0,4.0,0.0,0.0,1,1.284606132,103.8361431,sr1,surface car park,coupon parking,whole day,no,yes,0,4.5,n
+2011-11-15,1977.0,2,rochor rd,17,ct,142.0,0.0,0.0,132.0,0.0,10.0,0.0,0.0,1,1.305104362,103.8514743,sr1,surface car park,coupon parking,whole day,no,yes,0,4.5,n
+1998-10-07,1968.0,1,upp aljunied lane,3,tp,10.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,1,1.334292424,103.8787462,ua6,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1999-03-18,1973.0,7,tronoh rd,12,kwn,118.0,2.0,1.0,104.0,10.0,1.0,0.0,0.0,1,1.31627846,103.8738512,br14,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,5.4,n
+1999-03-21,1985.0,1,hillview ave,15,bb,113.0,0.0,0.0,21.0,58.0,19.0,15.0,0.0,1,1.353674206,103.7605499,u13,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1999-03-21,1985.0,2,hillview ave,15,bb,113.0,0.0,0.0,21.0,58.0,19.0,15.0,0.0,1,1.357185485,103.7598263,u2,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,9.99,n
+1999-03-21,1980.0,7,hillview ave,15,bb,157.0,0.0,2.0,95.0,50.0,9.0,1.0,0.0,1,1.359437869,103.7629325,u2,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,9.99,n
+1999-03-21,1985.0,3,hillview ave,15,bb,113.0,0.0,0.0,21.0,58.0,19.0,15.0,0.0,1,1.359437869,103.7629325,u10,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+1999-03-21,1978.0,4,hillview ave,15,bb,148.0,0.0,2.0,83.0,54.0,8.0,1.0,0.0,1,1.3635835280000002,103.7652634,u7,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,9.99,n
+1999-03-21,1985.0,5,hillview ave,15,bb,113.0,0.0,0.0,21.0,58.0,19.0,15.0,0.0,1,1.353155097,103.7606799,u3,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1999-03-21,1978.0,6,hillview ave,15,bb,148.0,0.0,2.0,83.0,54.0,8.0,1.0,0.0,1,1.35690906,103.7609632,u3,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1999-03-21,1985.0,13,hillview ave,15,bb,113.0,0.0,0.0,21.0,58.0,19.0,15.0,0.0,1,1.357185485,103.7598263,u3,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1999-03-21,1980.0,8,hillview ave,15,bb,157.0,0.0,2.0,95.0,50.0,9.0,1.0,0.0,1,1.353674206,103.7605499,u8,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+1999-03-21,1985.0,10,hillview ave,15,bb,113.0,0.0,0.0,21.0,58.0,19.0,15.0,0.0,1,1.359979068,103.7644426,u9,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1999-03-21,1985.0,12,hillview ave,15,bb,113.0,0.0,0.0,21.0,58.0,19.0,15.0,0.0,1,1.35690906,103.7609632,u9,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+1999-03-21,1985.0,14,hillview ave,15,bb,113.0,0.0,0.0,21.0,58.0,19.0,15.0,0.0,1,1.35636359,103.7617615,u12,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,3.8,n
+1999-10-29,1974.0,140,lor 1a toa payoh,12,tp,118.0,2.0,1.0,99.0,14.0,2.0,0.0,0.0,1,1.337050543,103.8448113,tp15,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+1999-10-29,1980.0,68,dakota cres,15,gl,157.0,0.0,2.0,95.0,50.0,9.0,1.0,0.0,1,1.306018918,103.8857808,k22,surface car park,coupon parking,no,no,no,0,4.5,n
+1999-10-29,1980.0,70,dakota cres,15,gl,157.0,0.0,2.0,95.0,50.0,9.0,1.0,0.0,1,1.30665816,103.8880879,k22,surface car park,coupon parking,no,no,no,0,4.5,n
+1999-10-29,1980.0,72,dakota cres,15,gl,157.0,0.0,2.0,95.0,50.0,9.0,1.0,0.0,1,1.306407039,103.8881089,k22,surface car park,coupon parking,no,no,no,0,4.5,n
+2000-02-20,1978.0,1,punggol rd / buangkok sth farmway 1,4,sk,16.0,0.0,0.0,15.0,1.0,0.0,0.0,0.0,1,1.413461961,103.9128625,y8,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2001-03-03,1984.0,4,seletar rd,10,ys,114.0,0.0,0.0,39.0,52.0,16.0,7.0,0.0,1,1.384523529,103.8677116,y8,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2000-02-20,1978.0,2,punggol rd / buangkok sth farmway 1,4,sk,16.0,0.0,0.0,15.0,1.0,0.0,0.0,0.0,1,1.392190456,103.9015425,y3,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2000-02-20,1986.0,206,punggol rd / buangkok sth farmway 1,4,sk,24.0,0.0,0.0,12.0,8.0,1.0,3.0,0.0,1,1.405421845,103.9069069,y3,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2001-03-03,1980.0,2,seletar west farmway 6,6,ys,27.0,0.0,0.0,24.0,3.0,0.0,0.0,0.0,1,1.397643821,103.8642821,y3,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2000-02-20,1978.0,5,punggol rd / buangkok sth farmway 1,4,sk,16.0,0.0,0.0,15.0,1.0,0.0,0.0,0.0,1,1.4038676419999998,103.9079914,y4t,surface car park,coupon parking,whole day,no,yes,0,0.0,n
+2000-02-20,1975.0,2,sembawang rd,12,sb,126.0,1.0,2.0,95.0,25.0,3.0,0.0,0.0,1,1.441352664,103.8227927,y4t,surface car park,coupon parking,whole day,no,yes,0,0.0,n
+2000-02-20,1986.0,207,punggol rd / buangkok sth farmway 1,4,sk,24.0,0.0,0.0,12.0,8.0,1.0,3.0,0.0,1,1.4038676419999998,103.9079914,y9,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2000-02-20,1975.0,1,sembawang rd,12,sb,126.0,1.0,2.0,95.0,25.0,3.0,0.0,0.0,1,1.441121932,103.8224663,y9,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2001-03-03,1980.0,5,seletar west farmway 6,6,ys,27.0,0.0,0.0,24.0,3.0,0.0,0.0,0.0,1,1.397643821,103.8642821,y9,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2000-02-20,1978.0,83,bedok nth rd,12,bd,144.0,0.0,2.0,92.0,45.0,4.0,1.0,0.0,1,1.329221264,103.9325025,b28,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2000-02-20,1975.0,3,sembawang rd,12,sb,126.0,1.0,2.0,95.0,25.0,3.0,0.0,0.0,1,1.441253164,103.8225021,y13,surface car park,electronic parking,whole day,no,yes,0,5.4,n
+2001-03-03,1984.0,1,seletar rd,10,ys,114.0,0.0,0.0,39.0,52.0,16.0,7.0,0.0,1,1.3876033019999998,103.8694236,y13,surface car park,electronic parking,whole day,no,yes,0,5.4,n
+2001-03-03,1980.0,6,seletar west farmway 6,6,ys,27.0,0.0,0.0,24.0,3.0,0.0,0.0,0.0,1,1.397643821,103.8642821,y13,surface car park,electronic parking,whole day,no,yes,0,5.4,n
+2000-02-20,1975.0,4,sembawang rd,12,sb,126.0,1.0,2.0,95.0,25.0,3.0,0.0,0.0,1,1.441270623,103.8228276,y5,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2001-03-03,1984.0,3,seletar rd,10,ys,114.0,0.0,0.0,39.0,52.0,16.0,7.0,0.0,1,1.387188417,103.8693372,y5,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2000-02-20,1975.0,5,sembawang rd,12,sb,126.0,1.0,2.0,95.0,25.0,3.0,0.0,0.0,1,1.441338571,103.8224106,y4,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,9.99,n
+2001-03-03,1980.0,1,seletar west farmway 6,6,ys,27.0,0.0,0.0,24.0,3.0,0.0,0.0,0.0,1,1.397643821,103.8642821,y4,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,9.99,n
+2001-03-03,1980.0,7,seletar west farmway 6,6,ys,27.0,0.0,0.0,24.0,3.0,0.0,0.0,0.0,1,1.397643821,103.8642821,y4,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,9.99,n
+2000-07-30,1976.0,14,outram hill,9,ct,119.0,0.0,2.0,91.0,22.0,4.0,0.0,0.0,1,1.284606132,103.8361431,jms,surface car park,coupon parking,7am-10.30pm,sun & ph fr 7am-10.30pm,no,0,0.0,n
+2000-08-12,1978.0,311,clementi ave 4,12,cl,144.0,0.0,2.0,92.0,45.0,4.0,1.0,0.0,1,1.31935456,103.7651093,c13m,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,7,2.15,n
+2000-08-12,1978.0,312,clementi ave 4,12,cl,144.0,0.0,2.0,92.0,45.0,4.0,1.0,0.0,1,1.319064417,103.7639598,c13m,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,7,2.15,n
+2000-08-12,1978.0,313,clementi ave 4,12,cl,144.0,0.0,2.0,92.0,45.0,4.0,1.0,0.0,1,1.318492987,103.7667016,c13m,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,7,2.15,n
+2000-08-12,1978.0,314,clementi ave 4,12,cl,144.0,0.0,2.0,92.0,45.0,4.0,1.0,0.0,1,1.319490182,103.7673379,c13m,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,7,2.15,n
+2001-02-17,1969.0,96,margaret dr,16,qt,108.0,0.0,0.0,108.0,0.0,0.0,0.0,0.0,1,1.297291611,103.809118,q2a,surface car park,coupon parking,7am-10.30pm,sun & ph fr 7am-10.30pm,no,0,0.0,n
+2003-01-13,1962.0,52,tanglin halt,10,queenstown,118.0,0.0,28.0,87.0,2.0,0.0,0.0,1.0,1,1.297772317,103.7980171,q2a,surface car park,coupon parking,7am-10.30pm,sun & ph fr 7am-10.30pm,no,0,0.0,n
+2005-04-21,1974.0,17,holland ave / dr,20,qt,142.0,0.0,0.0,86.0,50.0,6.0,0.0,0.0,1,1.310608935,103.7955501,q2a,surface car park,coupon parking,7am-10.30pm,sun & ph fr 7am-10.30pm,no,0,0.0,n
+2005-04-21,1974.0,22,holland ave / dr,20,qt,142.0,0.0,0.0,86.0,50.0,6.0,0.0,0.0,1,1.310555452,103.7955411,q2a,surface car park,coupon parking,7am-10.30pm,sun & ph fr 7am-10.30pm,no,0,0.0,n
+2005-04-21,1974.0,23,holland ave / dr,20,qt,142.0,0.0,0.0,86.0,50.0,6.0,0.0,0.0,1,1.310659415,103.7955648,q2a,surface car park,coupon parking,7am-10.30pm,sun & ph fr 7am-10.30pm,no,0,0.0,n
+2001-03-03,1984.0,2,seletar rd,10,ys,114.0,0.0,0.0,39.0,52.0,16.0,7.0,0.0,1,1.384461683,103.868041,y3m,basement car park,electronic parking,whole day,sun & ph fr 1pm-10.30pm,yes,1,2.1,y
+2001-03-11,1972.0,6,upp boon keng rd,18,kwn,146.0,0.0,5.0,126.0,13.0,2.0,0.0,0.0,1,1.312707295,103.8706906,br11,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2001-03-11,1973.0,10,upp boon keng rd,12,kwn,118.0,2.0,1.0,104.0,10.0,1.0,0.0,0.0,1,1.313711516,103.87266540000002,jb1,surface car park,electronic parking,7am-10.30pm,no,no,0,4.5,n
+2003-01-13,1962.0,53,tanglin halt,10,queenstown,118.0,0.0,29.0,87.0,2.0,0.0,0.0,0.0,1,1.297772317,103.7980171,q14,surface car park,coupon parking,7am-10.30pm,sun & ph fr 7am-10.30pm,no,0,0.0,n
+2003-01-13,1962.0,54,tanglin halt,10,queenstown,118.0,0.0,29.0,86.0,2.0,0.0,0.0,1.0,1,1.301864727,103.7981743,q17,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2003-01-13,1963.0,57,c'wealth dr,10,queenstown,118.0,0.0,29.0,87.0,2.0,0.0,0.0,0.0,1,1.297842217,103.796608,q73,surface car park,electronic parking,7am-7pm,no,no,0,0.0,n
+2003-01-13,1963.0,61,c'wealth dr,10,queenstown,118.0,0.0,29.0,86.0,2.0,0.0,0.0,1.0,1,1.298329201,103.7966068,q73,surface car park,electronic parking,7am-7pm,no,no,0,0.0,n
+2003-01-13,1963.0,67,c'wealth dr,10,queenstown,117.0,0.0,28.0,85.0,3.0,0.0,0.0,1.0,1,1.298799808,103.7962589,q73,surface car park,electronic parking,7am-7pm,no,no,0,0.0,n
+2003-01-13,1963.0,68,c'wealth dr,10,queenstown,115.0,0.0,28.0,82.0,5.0,0.0,0.0,0.0,1,1.298984374,103.7960772,q73,surface car park,electronic parking,7am-7pm,no,no,0,0.0,n
+2003-01-13,1963.0,69,c'wealth dr,10,queenstown,118.0,0.0,29.0,86.0,2.0,0.0,0.0,1.0,1,1.299257847,103.7961574,q73,surface car park,electronic parking,7am-7pm,no,no,0,0.0,n
+2003-01-13,1963.0,70,c'wealth dr,10,queenstown,119.0,0.0,29.0,88.0,1.0,0.0,0.0,1.0,1,1.299440498,103.7961571,q73,surface car park,electronic parking,7am-7pm,no,no,0,0.0,n
+2003-01-13,1963.0,71,c'wealth dr,10,queenstown,116.0,0.0,29.0,83.0,4.0,0.0,0.0,0.0,1,1.299843215,103.7969785,q73,surface car park,electronic parking,7am-7pm,no,no,0,0.0,n
+2003-01-13,1963.0,72,c'wealth dr,10,queenstown,116.0,0.0,28.0,84.0,4.0,0.0,0.0,0.0,1,1.300023369,103.7969569,q73,surface car park,electronic parking,7am-7pm,no,no,0,0.0,n
+2003-01-13,1963.0,73,c'wealth dr,10,queenstown,112.0,0.0,26.0,77.0,8.0,0.0,0.0,1.0,1,1.300027148,103.7965918,q73,surface car park,electronic parking,7am-7pm,no,no,0,0.0,n
+2008-08-08,1964.0,74,c'wealth dr,10,queenstown,95.0,0.0,0.0,94.0,1.0,0.0,0.0,0.0,1,1.299843215,103.7969785,q73,surface car park,electronic parking,7am-7pm,no,no,0,0.0,n
+2008-08-08,1964.0,75,c'wealth dr,10,queenstown,95.0,0.0,0.0,94.0,1.0,0.0,0.0,0.0,1,1.299966377,103.7977201,q73,surface car park,electronic parking,7am-7pm,no,no,0,0.0,n
+2008-08-08,1964.0,76,c'wealth dr,10,queenstown,95.0,0.0,0.0,94.0,1.0,0.0,0.0,0.0,1,1.295803645,103.7988024,q73,surface car park,electronic parking,7am-7pm,no,no,0,0.0,n
+2008-08-08,1964.0,77,c'wealth dr,10,queenstown,95.0,0.0,0.0,94.0,1.0,0.0,0.0,0.0,1,1.298799808,103.7962589,q73,surface car park,electronic parking,7am-7pm,no,no,0,0.0,n
+2008-08-08,1964.0,78,c'wealth dr,10,queenstown,95.0,0.0,0.0,94.0,1.0,0.0,0.0,0.0,1,1.301649988,103.7967964,q73,surface car park,electronic parking,7am-7pm,no,no,0,0.0,n
+2008-08-08,1964.0,79,c'wealth dr,10,queenstown,95.0,0.0,0.0,94.0,1.0,0.0,0.0,0.0,1,1.301649988,103.7967964,q73,surface car park,electronic parking,7am-7pm,no,no,0,0.0,n
+2008-08-08,1964.0,80,c'wealth dr,10,queenstown,99.0,0.0,0.0,95.0,4.0,0.0,0.0,0.0,1,1.295803645,103.7988024,q73,surface car park,electronic parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1962.0,55,c'wealth dr,10,queenstown,118.0,0.0,29.0,87.0,2.0,0.0,0.0,0.0,1,1.297119748,103.79737,q73,surface car park,electronic parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1962.0,56,c'wealth dr,10,queenstown,118.0,0.0,29.0,86.0,2.0,0.0,0.0,1.0,1,1.297528021,103.7970902,q73,surface car park,electronic parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1962.0,58,c'wealth dr,10,queenstown,117.0,0.0,28.0,85.0,3.0,0.0,0.0,1.0,1,1.297769693,103.7970901,q73,surface car park,electronic parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1963.0,59,c'wealth dr,10,queenstown,115.0,0.0,28.0,82.0,5.0,0.0,0.0,0.0,1,1.298011246,103.7970907,q73,surface car park,electronic parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1963.0,60,c'wealth dr,10,queenstown,118.0,0.0,29.0,86.0,2.0,0.0,0.0,1.0,1,1.298252192,103.7970901,q73,surface car park,electronic parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1963.0,62,c'wealth dr,10,queenstown,119.0,0.0,29.0,88.0,1.0,0.0,0.0,1.0,1,1.298493156,103.7970912,q73,surface car park,electronic parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1963.0,63,c'wealth dr,10,queenstown,116.0,0.0,29.0,83.0,4.0,0.0,0.0,0.0,1,1.298820888,103.7970912,q73,surface car park,electronic parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1963.0,64,c'wealth dr,10,queenstown,116.0,0.0,28.0,84.0,4.0,0.0,0.0,0.0,1,1.299170027,103.7968974,q73,surface car park,electronic parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1963.0,65,c'wealth dr,10,queenstown,112.0,0.0,26.0,77.0,8.0,0.0,0.0,1.0,1,1.299594858,103.7967483,q73,surface car park,electronic parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1963.0,66,c'wealth dr,10,queenstown,117.0,0.0,28.0,86.0,3.0,0.0,0.0,0.0,1,1.299116852,103.7965838,q73,surface car park,electronic parking,7am-7pm,no,no,0,0.0,n
+2003-01-15,1967.0,28,lor 5 toa payoh / lor 6 toa payoh,12,tp,86.0,0.0,13.0,67.0,3.0,2.0,1.0,0.0,1,1.333218365,103.8545172,tp10,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,2.15,n
+2003-01-15,1967.0,30,lor 5 toa payoh / lor 6 toa payoh,12,tp,86.0,0.0,13.0,67.0,3.0,2.0,1.0,0.0,1,1.333218365,103.8545172,tp10,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,2.15,n
+2003-01-15,1967.0,32,lor 5 toa payoh / lor 6 toa payoh,12,tp,86.0,0.0,13.0,67.0,3.0,2.0,1.0,0.0,1,1.334886917,103.854606,tp10,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,2.15,n
+2003-01-15,1967.0,33,lor 5 toa payoh / lor 6 toa payoh,12,tp,86.0,0.0,13.0,67.0,3.0,2.0,1.0,0.0,1,1.338748118,103.8508819,tp10,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,2.15,n
+2003-02-20,1971.0,1,jln pasar baru / geylang serai,12,gl,97.0,0.0,3.0,90.0,3.0,1.0,0.0,0.0,1,1.316917244,103.89739,m25,surface car park,electronic parking,whole day,no,yes,0,4.5,n
+2018-05-13,1968.0,81,macpherson lane,12,gl,130.0,0.0,115.0,11.0,2.0,0.0,0.0,2.0,1,1.332169382,103.8862967,m25,surface car park,electronic parking,whole day,no,yes,0,4.5,n
+2018-05-13,1968.0,83,macpherson lane,12,gl,93.0,0.0,11.0,78.0,2.0,0.0,0.0,2.0,1,1.331549855,103.8855179,m25,surface car park,electronic parking,whole day,no,yes,0,4.5,n
+2003-02-20,1971.0,2,jln pasar baru / geylang serai,12,gl,97.0,0.0,3.0,90.0,3.0,1.0,0.0,0.0,1,1.316917244,103.89739,m37,surface car park,electronic parking,7am-7pm,no,no,0,0.0,n
+2003-02-20,1971.0,3,jln pasar baru / geylang serai,12,gl,97.0,0.0,3.0,90.0,3.0,1.0,0.0,0.0,1,1.316917244,103.89739,m38,surface car park,electronic parking,7am-10.30pm,no,no,0,0.0,n
+2004-07-16,1978.0,46,bedok sth ave 3,15,bd,148.0,0.0,2.0,83.0,54.0,8.0,1.0,0.0,1,1.322528611,103.9426664,b65,surface car park,electronic parking,no,sun & ph fr 7am-10.30pm,yes,0,5.4,n
+2004-07-16,1978.0,47,bedok sth ave 3,15,bd,148.0,0.0,2.0,83.0,54.0,8.0,1.0,0.0,1,1.322151981,103.9433638,b65,surface car park,electronic parking,no,sun & ph fr 7am-10.30pm,yes,0,5.4,n
+2004-07-16,1978.0,48,bedok sth ave 3,15,bd,148.0,0.0,2.0,83.0,54.0,8.0,1.0,0.0,1,1.322641397,103.9434131,b65,surface car park,electronic parking,no,sun & ph fr 7am-10.30pm,yes,0,5.4,n
+2004-07-16,1978.0,49,bedok sth ave 3,15,bd,148.0,0.0,2.0,83.0,54.0,8.0,1.0,0.0,1,1.323108046,103.9435008,b65,surface car park,electronic parking,no,sun & ph fr 7am-10.30pm,yes,0,5.4,n
+2004-07-16,1978.0,50,bedok sth ave 3,15,bd,148.0,0.0,2.0,83.0,54.0,8.0,1.0,0.0,1,1.323603286,103.9435934,b65,surface car park,electronic parking,no,sun & ph fr 7am-10.30pm,yes,0,5.4,n
+2004-07-19,1978.0,30,dover rd,15,qt,148.0,0.0,2.0,83.0,54.0,8.0,1.0,0.0,1,1.299263848,103.7844561,ar1m,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,10,2.15,n
+2004-07-19,1978.0,31,dover rd,15,qt,148.0,0.0,2.0,83.0,54.0,8.0,1.0,0.0,1,1.300432779,103.7837699,ar1m,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,10,2.15,n
+2004-07-19,1978.0,32,dover rd,15,qt,148.0,0.0,2.0,83.0,54.0,8.0,1.0,0.0,1,1.300016517,103.783652,ar1m,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,10,2.15,n
+2004-07-19,1978.0,34,dover rd,15,qt,148.0,0.0,2.0,83.0,54.0,8.0,1.0,0.0,1,1.299626355,103.7833064,ar1m,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,10,2.15,n
+2004-07-19,1978.0,35,dover rd,15,qt,148.0,0.0,2.0,83.0,54.0,8.0,1.0,0.0,1,1.299123981,103.7834245,ar1m,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,10,2.15,n
+2004-07-19,1978.0,36,dover rd,12,qt,144.0,0.0,2.0,92.0,45.0,4.0,1.0,0.0,1,1.299991656,103.782743,ar1m,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,10,2.15,n
+2004-07-19,1978.0,37,dover rd,15,qt,148.0,0.0,2.0,83.0,54.0,8.0,1.0,0.0,1,1.299582927,103.7826368,ar1m,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,10,2.15,n
+2004-07-19,1978.0,38,dover rd,12,qt,144.0,0.0,2.0,92.0,45.0,4.0,1.0,0.0,1,1.298920274,103.7821726,ar1m,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,10,2.15,n
+2004-07-19,1978.0,39,dover rd,15,qt,148.0,0.0,2.0,83.0,54.0,8.0,1.0,0.0,1,1.29842598,103.782548,ar1m,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,10,2.15,n
+2004-07-28,1971.0,104,tao ching rd,10,jw,100.0,0.0,0.0,97.0,2.0,1.0,0.0,0.0,1,1.331778209,103.7243951,j27,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2004-07-28,1971.0,105,tao ching rd,10,jw,100.0,0.0,0.0,97.0,2.0,1.0,0.0,0.0,1,1.333245887,103.723612,j27,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2005-11-25,1974.0,20,upp boon keng rd,16,kwn,281.0,0.0,0.0,277.0,0.0,4.0,0.0,0.0,1,1.312707295,103.8706906,brm2,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,12,2.0,n
+2005-11-25,1976.0,54,sims dr,13,gl,159.0,0.0,0.0,0.0,159.0,0.0,0.0,0.0,1,1.316150757,103.8784402,sd1,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2005-11-25,1976.0,56,sims dr,13,gl,159.0,0.0,0.0,0.0,159.0,0.0,0.0,0.0,1,1.316150757,103.8784402,sd1,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2005-11-25,1976.0,57,sims dr,13,gl,159.0,0.0,0.0,0.0,159.0,0.0,0.0,0.0,1,1.319412782,103.879496,sd1,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2005-11-25,1976.0,59,sims dr,13,gl,159.0,0.0,0.0,0.0,159.0,0.0,0.0,0.0,1,1.317000196,103.8759946,sd1,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2005-11-25,1976.0,60,sims dr,12,gl,300.0,0.0,0.0,193.0,0.0,6.0,0.0,101.0,1,1.317602318,103.8774245,sd1,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2005-11-25,1976.0,62,sims dr,12,gl,300.0,0.0,0.0,194.0,0.0,7.0,0.0,99.0,1,1.31747603,103.8763541,sd1,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2006-03-22,1976.0,182,boon lay dr,7,jw,158.0,0.0,0.0,0.0,158.0,0.0,0.0,0.0,1,1.348409676,103.7077552,bl3,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,9.99,n
+2006-03-22,1976.0,184,boon lay dr,13,jw,240.0,0.0,0.0,0.0,240.0,0.0,0.0,0.0,1,1.3412141990000002,103.7102034,bl3,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,9.99,n
+2006-03-22,1976.0,181,boon lay dr,16,jw,180.0,0.0,0.0,0.0,180.0,0.0,0.0,0.0,1,1.348409676,103.7077552,bl3,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,9.99,n
+2011-12-29,1973.0,167,boon lay dr,11,jw,109.0,0.0,0.0,106.0,0.0,3.0,0.0,0.0,1,1.348409676,103.7077552,bl3,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,9.99,n
+2011-12-29,1973.0,168,boon lay dr,11,jw,109.0,0.0,0.0,106.0,0.0,3.0,0.0,0.0,1,1.342540562,103.7137244,bl3,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,9.99,n
+2011-12-29,1973.0,169,boon lay dr,11,jw,108.0,0.0,0.0,107.0,0.0,1.0,0.0,0.0,1,1.347837853,103.7077519,bl3,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,9.99,n
+2011-12-29,1973.0,170,boon lay dr,11,jw,108.0,0.0,0.0,107.0,0.0,1.0,0.0,0.0,1,1.345986769,103.7075647,bl3,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,9.99,n
+2011-12-29,1973.0,171,boon lay dr,11,jw,108.0,0.0,0.0,107.0,0.0,1.0,0.0,0.0,1,1.345986769,103.7075647,bl3,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,9.99,n
+2011-12-29,1973.0,172,boon lay dr,11,jw,108.0,0.0,0.0,107.0,0.0,1.0,0.0,0.0,1,1.345986769,103.7075647,bl3,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,9.99,n
+2006-03-22,1975.0,217,boon lay ave,11,jw,240.0,0.0,0.0,0.0,240.0,0.0,0.0,0.0,1,1.349755288,103.7112993,bl9,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.15,n
+2006-03-22,1975.0,219,boon lay ave,13,jw,256.0,0.0,0.0,0.0,256.0,0.0,0.0,0.0,1,1.349395776,103.7108196,bl9,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.15,n
+2006-03-22,1975.0,220,boon lay ave,16,jw,180.0,0.0,0.0,0.0,180.0,0.0,0.0,0.0,1,1.349679825,103.7117024,bl9,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.15,n
+2006-04-21,1973.0,88,zion rd,16,bm,110.0,0.0,0.0,0.0,110.0,0.0,0.0,0.0,1,1.293703191,103.8309228,h3,surface car park,electronic parking,whole day,no,yes,0,2.4,n
+2006-04-21,1973.0,89,zion rd,12,bm,132.0,0.0,0.0,130.0,0.0,2.0,0.0,0.0,1,1.293703191,103.8309228,h3,surface car park,electronic parking,whole day,no,yes,0,2.4,n
+2006-04-21,1973.0,90,zion rd,12,bm,132.0,0.0,0.0,130.0,0.0,2.0,0.0,0.0,1,1.293703191,103.8309228,h3,surface car park,electronic parking,whole day,no,yes,0,2.4,n
+2006-04-21,1973.0,91,zion rd,12,bm,132.0,0.0,0.0,130.0,0.0,2.0,0.0,0.0,1,1.28850524,103.8335858,h3,surface car park,electronic parking,whole day,no,yes,0,2.4,n
+2006-04-21,1973.0,92,zion rd,12,bm,130.0,0.0,0.0,129.0,0.0,1.0,0.0,0.0,1,1.292763339,103.8311312,h3,surface car park,electronic parking,whole day,no,yes,0,2.4,n
+2006-06-22,1976.0,246,ang mo kio ave 2/ ang mo kio ave 3/ang mo kio ave 4,12,amk,88.0,0.0,0.0,0.0,55.0,33.0,0.0,0.0,1,1.3772851119999998,103.8335313,a26,surface car park,coupon parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2006-06-22,1976.0,250,ang mo kio ave 2/ ang mo kio ave 3/ang mo kio ave 4,12,amk,198.0,0.0,0.0,193.0,0.0,5.0,0.0,0.0,1,1.3772851119999998,103.8335313,a61,surface car park,coupon parking,whole day,sun & ph fr 7am-10.30pm,yes,0,9.99,n
+2006-06-22,1976.0,251,ang mo kio ave 2/ ang mo kio ave 3/ang mo kio ave 4,12,amk,198.0,0.0,0.0,193.0,0.0,5.0,0.0,0.0,1,1.3772851119999998,103.8335313,a39,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2006-06-22,1976.0,252,ang mo kio ave 2/ ang mo kio ave 3/ang mo kio ave 4,12,amk,201.0,0.0,0.0,195.0,0.0,5.0,1.0,0.0,1,1.377352801,103.834899,a67,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2006-12-08,1976.0,9,ghim moh rd,10,qt,257.0,0.0,0.0,235.0,20.0,2.0,0.0,0.0,1,1.309494181,103.7887246,gm6b,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,7,2.15,n
+2006-12-08,1976.0,10,ghim moh rd,10,qt,258.0,0.0,0.0,235.0,20.0,3.0,0.0,0.0,1,1.309494181,103.7887246,gm6b,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,7,2.15,n
+2006-12-08,1976.0,11,ghim moh rd,20,qt,76.0,0.0,0.0,0.0,76.0,0.0,0.0,0.0,1,1.309310226,103.7896861,gm6b,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,7,2.15,n
+2006-12-08,1976.0,12,ghim moh rd,14,qt,138.0,0.0,0.0,0.0,138.0,0.0,0.0,0.0,1,1.311821111,103.7873261,gm6b,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,7,2.15,n
+2006-12-08,1976.0,9a,ghim moh rd,14,qt,138.0,0.0,0.0,0.0,138.0,0.0,0.0,0.0,1,1.312642744,103.7869434,gm6b,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,7,2.15,n
+2006-12-08,1976.0,12a,ghim moh rd,14,qt,139.0,0.0,0.0,0.0,139.0,0.0,0.0,0.0,1,1.311728321,103.7880781,gm6b,multi-storey car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,7,2.15,n
+2007-02-23,1975.0,94,henderson rd,12,bm,231.0,0.0,0.0,206.0,22.0,3.0,0.0,0.0,1,1.279780159,103.8199849,he17,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2007-02-23,1975.0,96,henderson rd,16,bm,300.0,0.0,0.0,152.0,146.0,2.0,0.0,0.0,1,1.287542915,103.8213372,he17,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2007-06-28,1977.0,401,clementi ave 1,12,cl,194.0,0.0,0.0,168.0,22.0,2.0,2.0,0.0,1,1.310335922,103.7713557,c6,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2007-06-28,1977.0,402,clementi ave 1,12,cl,194.0,0.0,0.0,168.0,22.0,2.0,2.0,0.0,1,1.309626523,103.7711231,c6,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2007-06-28,1977.0,409,clementi ave 1,14,cl,136.0,0.0,0.0,0.0,136.0,0.0,0.0,0.0,1,1.310335922,103.7713557,c6,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2007-06-28,1977.0,403,clementi ave 1,12,cl,194.0,0.0,0.0,168.0,22.0,2.0,2.0,0.0,1,1.309354046,103.7668762,c5,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2007-06-28,1977.0,404,clementi ave 1,12,cl,195.0,0.0,0.0,168.0,22.0,2.0,3.0,0.0,1,1.309440766,103.7701445,c7,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2007-06-28,1977.0,407,clementi ave 1,13,cl,125.0,0.0,0.0,125.0,0.0,0.0,0.0,0.0,1,1.3098253640000002,103.7700732,c11,surface car park,electronic parking,whole day,no,yes,0,4.3,n
+2007-06-28,1977.0,408,clementi ave 1,14,cl,136.0,0.0,0.0,0.0,136.0,0.0,0.0,0.0,1,1.3098253640000002,103.7700732,c11,surface car park,electronic parking,whole day,no,yes,0,4.3,n
+2011-02-13,1977.0,321,clementi ave 5,10,cl,81.0,0.0,0.0,0.0,81.0,0.0,0.0,0.0,1,1.316550292,103.7663311,c11,surface car park,electronic parking,whole day,no,yes,0,4.3,n
+2011-02-13,1977.0,322,clementi ave 5,10,cl,146.0,0.0,0.0,145.0,0.0,1.0,0.0,0.0,1,1.316152986,103.7663283,c11,surface car park,electronic parking,whole day,no,yes,0,4.3,n
+2011-02-13,1977.0,323,clementi ave 5,10,cl,147.0,0.0,0.0,146.0,0.0,1.0,0.0,0.0,1,1.315829369,103.7670901,c11,surface car park,electronic parking,whole day,no,yes,0,4.3,n
+2007-07-12,1976.0,2,teban gdns rd,14,je,110.0,0.0,0.0,110.0,0.0,0.0,0.0,0.0,1,1.323297343,103.7393881,j2,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,9.99,n
+2007-07-12,1976.0,4,teban gdns rd,14,je,110.0,0.0,0.0,110.0,0.0,0.0,0.0,0.0,1,1.32378355,103.7385184,p17,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2007-07-12,1976.0,6,teban gdns rd,14,je,110.0,0.0,0.0,110.0,0.0,0.0,0.0,0.0,1,1.323297343,103.7393881,p16,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2007-07-12,1976.0,8,teban gdns rd,10,je,40.0,0.0,0.0,0.0,0.0,40.0,0.0,0.0,1,1.321499034,103.7389822,p16,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2007-07-12,1976.0,11,teban gdns rd,14,je,122.0,0.0,0.0,122.0,0.0,0.0,0.0,0.0,1,1.323297343,103.7393881,p15,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2009-11-08,1973.0,110,bt merah view,5,bm,52.0,0.0,0.0,51.0,0.0,1.0,0.0,0.0,1,1.284606313,103.8232223,he4,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2009-11-08,1973.0,111,bt merah view,25,bm,96.0,0.0,0.0,0.0,96.0,0.0,0.0,0.0,1,1.282774432,103.8226125,he4,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2009-11-08,1973.0,113,bt merah view,25,bm,96.0,0.0,0.0,0.0,96.0,0.0,0.0,0.0,1,1.282774432,103.8226125,he4,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2009-11-08,1973.0,114,bt merah view,5,bm,52.0,0.0,0.0,51.0,0.0,1.0,0.0,0.0,1,1.284606313,103.8232223,he4,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2011-11-09,1963.0,1,east coast rd,5,bd,27.0,0.0,0.0,26.0,1.0,0.0,0.0,0.0,1,1.311762898,103.9231131,cv2,surface car park,electronic parking,whole day,no,yes,0,0.0,n
+2011-11-09,1963.0,2,east coast rd,5,bd,27.0,0.0,0.0,26.0,1.0,0.0,0.0,0.0,1,1.311908623,103.9234743,cv4,surface car park,electronic parking,whole day,no,yes,0,0.0,n
+2011-11-09,1963.0,3,east coast rd,5,bd,28.0,0.0,0.0,28.0,0.0,0.0,0.0,0.0,1,1.311558711,103.9232914,cv3,surface car park,electronic parking,whole day,no,yes,0,3.8,n
+2011-12-03,1955.0,1,redhill cl,7,bm,41.0,0.0,0.0,40.0,1.0,0.0,0.0,0.0,1,1.284257152,103.8178263,bm20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2011-12-03,1955.0,2,redhill cl,7,bm,41.0,0.0,0.0,40.0,1.0,0.0,0.0,0.0,1,1.284408461,103.8172628,bm20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2011-12-03,1955.0,3,redhill cl,7,bm,41.0,0.0,0.0,40.0,1.0,0.0,0.0,0.0,1,1.284554804,103.8167009,bm20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2011-12-03,1955.0,5,redhill cl,7,bm,40.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,1,1.284601678,103.8176168,bm20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2011-12-03,1955.0,6,redhill cl,7,bm,40.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,1,1.284818245,103.8169614,bm20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2011-12-03,1955.0,7,redhill cl,7,bm,40.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,1,1.284916553,103.8176254,bm20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2011-12-03,1955.0,8,redhill cl,7,bm,40.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,1,1.285116227,103.8168664,bm20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2011-12-03,1955.0,9,redhill cl,7,bm,40.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,1,1.28494012,103.81641,bm20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2011-12-03,1955.0,10,redhill cl,7,bm,40.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,1,1.284935477,103.8160882,bm20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2011-12-03,1955.0,11,redhill cl,7,bm,40.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,1,1.285525587,103.8162523,bm20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2011-12-03,1955.0,12,redhill cl,7,bm,40.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,1,1.286076106,103.8165169,bm20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2011-12-03,1955.0,13,redhill cl,7,bm,40.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,1,1.28542199,103.8169452,bm20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2011-12-03,1955.0,14,redhill cl,7,bm,40.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,1,1.285627947,103.8171819,bm20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2011-12-03,1955.0,15,redhill cl,7,bm,40.0,0.0,0.0,40.0,0.0,0.0,0.0,0.0,1,1.285884083,103.8171594,bm20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2011-12-03,1955.0,16,redhill cl,7,bm,45.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,1,1.286129532,103.8171621,bm20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2011-12-03,1955.0,17,redhill cl,7,bm,45.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,1,1.285226663,103.8176748,bm20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2011-12-03,1955.0,18,redhill cl,7,bm,45.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,1,1.28583132,103.8178311,bm20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2011-12-03,1955.0,19,redhill cl,7,bm,45.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,1,1.286076265,103.8178327,bm20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2011-12-03,1955.0,20,redhill cl,7,bm,45.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,1,1.286758455,103.8173461,bm20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2011-12-03,1955.0,21,redhill cl,7,bm,45.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,1,1.286459808,103.8176842,bm20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2011-12-03,1955.0,22,redhill cl,7,bm,45.0,0.0,0.0,45.0,0.0,0.0,0.0,0.0,1,1.286637678,103.8179862,bm20,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,0.0,n
+2012-06-25,1980.0,1a,woodlands centre rd,4,wl,73.0,0.0,0.0,73.0,0.0,0.0,0.0,0.0,1,1.438043902,103.7709643,w19,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2012-06-25,1986.0,2a,woodlands centre rd,4,wl,74.0,0.0,0.0,70.0,0.0,4.0,0.0,0.0,1,1.441088687,103.7690986,w19,surface car park,electronic parking,whole day,sun & ph fr 7am-10.30pm,yes,0,4.5,n
+2014-06-27,1962.0,24,tanglin halt rd,10,queenstown,111.0,0.0,26.0,81.0,3.0,0.0,0.0,1.0,1,1.297677087,103.7996368,q51,surface car park,coupon parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1962.0,25,tanglin halt rd,10,queenstown,110.0,0.0,27.0,79.0,4.0,0.0,0.0,0.0,1,1.2978966509999998,103.7996965,q51,surface car park,coupon parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1962.0,26,tanglin halt rd,10,queenstown,111.0,0.0,24.0,81.0,3.0,0.0,0.0,3.0,1,1.298106411,103.799781,q51,surface car park,coupon parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1962.0,27,tanglin halt rd,10,queenstown,109.0,0.0,25.0,79.0,5.0,0.0,0.0,0.0,1,1.298324737,103.7998392,q51,surface car park,coupon parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1962.0,28,tanglin halt rd,10,queenstown,107.0,0.0,23.0,74.0,7.0,0.0,0.0,3.0,1,1.298543257,103.7998979,q51,surface car park,coupon parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1962.0,29,tanglin halt rd,9,queenstown,106.0,0.0,26.0,77.0,2.0,0.0,0.0,1.0,1,1.298847085,103.7996412,q51,surface car park,coupon parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1962.0,30,tanglin halt rd,9,queenstown,107.0,0.0,27.0,78.0,1.0,0.0,0.0,1.0,1,1.299106097,103.7995619,q51,surface car park,coupon parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1962.0,31,tanglin halt rd,9,queenstown,103.0,0.0,25.0,71.0,5.0,0.0,0.0,2.0,1,1.2993619159999998,103.7994714,q51,surface car park,coupon parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1962.0,32,tanglin halt rd,9,queenstown,105.0,0.0,27.0,74.0,3.0,0.0,0.0,1.0,1,1.299620525,103.7993864,q51,surface car park,coupon parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1962.0,33,tanglin halt rd,10,queenstown,116.0,0.0,28.0,83.0,4.0,0.0,0.0,1.0,1,1.296567445,103.7983786,q51,surface car park,coupon parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1962.0,34,tanglin halt rd,10,queenstown,117.0,0.0,27.0,86.0,3.0,0.0,0.0,1.0,1,1.296808995,103.7983615,q51,surface car park,coupon parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1962.0,35,tanglin halt rd,10,queenstown,119.0,0.0,29.0,88.0,1.0,0.0,0.0,1.0,1,1.297049718,103.7982277,q51,surface car park,coupon parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1962.0,36,tanglin halt rd,10,queenstown,117.0,0.0,26.0,87.0,3.0,0.0,0.0,1.0,1,1.2972924540000002,103.7982287,q51,surface car park,coupon parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1962.0,37,tanglin halt rd,10,queenstown,118.0,0.0,27.0,88.0,2.0,0.0,0.0,1.0,1,1.297772317,103.7980171,q51,surface car park,coupon parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1962.0,38,tanglin halt rd,10,queenstown,116.0,0.0,25.0,84.0,4.0,0.0,0.0,3.0,1,1.297508103,103.7987228,q51,surface car park,coupon parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1962.0,40,tanglin halt rd,10,queenstown,116.0,0.0,28.0,84.0,4.0,0.0,0.0,0.0,1,1.297986437,103.7985808,q51,surface car park,coupon parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1962.0,41,tanglin halt rd,10,queenstown,118.0,0.0,28.0,87.0,2.0,0.0,0.0,1.0,1,1.298228399,103.7985854,q51,surface car park,coupon parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1962.0,42,tanglin halt rd,10,queenstown,118.0,0.0,29.0,87.0,2.0,0.0,0.0,0.0,1,1.298470056,103.7985802,q51,surface car park,coupon parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1962.0,43,tanglin halt rd,10,queenstown,114.0,0.0,28.0,79.0,6.0,0.0,0.0,1.0,1,1.298710923,103.79858,q51,surface car park,coupon parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1962.0,44,tanglin halt rd,10,queenstown,116.0,0.0,27.0,83.0,4.0,0.0,0.0,2.0,1,1.29895181,103.7985417,q51,surface car park,coupon parking,7am-7pm,no,no,0,0.0,n
+2014-06-27,1962.0,45,tanglin halt rd,10,queenstown,118.0,0.0,28.0,87.0,2.0,0.0,0.0,1.0,1,1.299194385,103.7985245,q51,surface car park,coupon parking,7am-7pm,no,no,0,0.0,n
+2016-08-03,1979.0,513,west coast rd,14,cl,206.0,0.0,0.0,178.0,26.0,1.0,1.0,0.0,1,1.308666022,103.7602582,c34,surface car park,electronic parking,no,sun & ph fr 7am-10.30pm,no,0,4.5,n
+2016-08-03,1979.0,514,west coast rd,12,cl,132.0,0.0,0.0,110.0,22.0,0.0,0.0,0.0,1,1.308972504,103.7592329,c34,surface car park,electronic parking,no,sun & ph fr 7am-10.30pm,no,0,4.5,n
+2016-08-03,1979.0,515,west coast rd,14,cl,153.0,0.0,0.0,124.0,26.0,2.0,1.0,0.0,1,1.308382745,103.7597841,c34,surface car park,electronic parking,no,sun & ph fr 7am-10.30pm,no,0,4.5,n
+2016-08-03,1979.0,516,west coast rd,2,cl,3.0,0.0,0.0,3.0,0.0,0.0,0.0,0.0,1,1.308167622,103.76044559999998,c34,surface car park,electronic parking,no,sun & ph fr 7am-10.30pm,no,0,4.5,n
+2016-08-03,1979.0,518,west coast rd,12,cl,172.0,0.0,0.0,146.0,22.0,1.0,3.0,0.0,1,1.308217599,103.7589432,c34,surface car park,electronic parking,no,sun & ph fr 7am-10.30pm,no,0,4.5,n
+2016-08-03,1979.0,519,west coast rd,12,cl,174.0,0.0,0.0,150.0,22.0,0.0,2.0,0.0,1,1.307664096,103.7593649,c34,surface car park,electronic parking,no,sun & ph fr 7am-10.30pm,no,0,4.5,n
+2016-08-03,1979.0,520,west coast rd,12,cl,154.0,0.0,0.0,132.0,22.0,0.0,0.0,0.0,1,1.307147744,103.7596284,c34,surface car park,electronic parking,no,sun & ph fr 7am-10.30pm,no,0,4.5,n
+2018-05-13,1968.0,82,macpherson lane,12,gl,94.0,0.0,13.0,80.0,1.0,0.0,0.0,0.0,1,1.332283325,103.88562009999998,m20,surface car park,electronic parking,7am-10.30pm,sun & ph fr 7am-10.30pm,no,0,0.0,n

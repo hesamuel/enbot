@@ -1,0 +1,324 @@
+Site,date_announced,Town,street,orig_blk_no,year_completed,max_floor_lvl,1room_sold,2room_sold,3room_sold,4room_sold,5room_sold,exec_sold,total_dwelling_units
+1,22 Aug 1995,Bukit Merah - Tiong Bahru,"Boon Tiong Road /
+Tiong Bahru Road",2,1952,4,0,0,24,0,0,0,24
+1,22 Aug 1995,Bukit Merah - Tiong Bahru,"Boon Tiong Road /
+Tiong Bahru Road",4,1952,4,0,0,24,0,0,0,24
+1,22 Aug 1995,Bukit Merah - Tiong Bahru,"Boon Tiong Road /
+Tiong Bahru Road",6,1952,4,0,0,24,0,0,0,24
+1,22 Aug 1995,Bukit Merah - Tiong Bahru,"Boon Tiong Road /
+Tiong Bahru Road",8,1952,4,0,0,24,0,0,0,24
+1,22 Aug 1995,Bukit Merah - Tiong Bahru,"Boon Tiong Road /
+Tiong Bahru Road",10,1952,4,0,0,24,0,0,0,24
+1,22 Aug 1995,Bukit Merah - Tiong Bahru,"Boon Tiong Road /
+Tiong Bahru Road",12,1952,4,0,0,24,0,0,0,24
+1,22 Aug 1995,Bukit Merah - Tiong Bahru,"Boon Tiong Road /
+Tiong Bahru Road",13,1952,4,0,0,24,0,0,0,24
+1,22 Aug 1995,Bukit Merah - Tiong Bahru,"Boon Tiong Road /
+Tiong Bahru Road",1,1952,4,0,0,24,0,0,0,24
+1,22 Aug 1995,Bukit Merah - Tiong Bahru,"Boon Tiong Road /
+Tiong Bahru Road",3,1952,4,0,0,24,0,0,0,24
+1,22 Aug 1995,Bukit Merah - Tiong Bahru,"Boon Tiong Road /
+Tiong Bahru Road",5,1952,4,0,0,24,0,0,0,24
+1,22 Aug 1995,Bukit Merah - Tiong Bahru,"Boon Tiong Road /
+Tiong Bahru Road",7,1952,4,0,0,24,0,0,0,24
+1,22 Aug 1995,Bukit Merah - Tiong Bahru,"Boon Tiong Road /
+Tiong Bahru Road",9,1952,4,0,0,24,0,0,0,24
+1,22 Aug 1995,Bukit Merah - Tiong Bahru,"Boon Tiong Road /
+Tiong Bahru Road",11,1952,4,0,0,24,0,0,0,24
+1,22 Aug 1995,Bukit Merah - Tiong Bahru,"Boon Tiong Road /
+Tiong Bahru Road",14,1952,4,0,0,24,0,0,0,24
+1,22 Aug 1995,Bukit Merah - Tiong Bahru,"Boon Tiong Road /
+Tiong Bahru Road",15,1952,4,0,0,24,0,0,0,24
+1,22 Aug 1995,Bukit Merah - Tiong Bahru,"Boon Tiong Road /
+Tiong Bahru Road",16,1952,4,0,0,24,0,0,0,24
+2,1 Sep 1995,Toa Payoh,Lorong 2 Toa Payoh,145,1971,4,0,0,65,17,0,0,82
+2,1 Sep 1995,Toa Payoh,Lorong 2 Toa Payoh,147,1971,4,0,0,65,17,0,0,82
+2,1 Sep 1995,Toa Payoh,Lorong 2 Toa Payoh,151,1971,4,0,0,65,17,0,0,82
+2,1 Sep 1995,Toa Payoh,Lorong 2 Toa Payoh,152,1971,12,0,0,0,154,0,0,154
+3,8 Nov 1995,Bukit Merah,Depot Road,103,1975,14,0,0,0,176,0,0,176
+3,8 Nov 1995,Bukit Merah,Depot Road,110,1975,11,0,0,164,0,1,0,165
+3,8 Nov 1995,Bukit Merah,Depot Road,111,1975,11,0,0,164,0,1,0,165
+3,8 Nov 1995,Bukit Merah,Depot Road,105,1975,11,0,0,164,0,1,0,165
+3,8 Nov 1995,Bukit Merah,Depot Road,107,1975,11,0,0,164,0,1,0,165
+3,8 Nov 1995,Bukit Merah,Depot Road,112,1975,11,0,0,166,0,1,0,167
+4,8 Feb 1996,Bukit Merah,Redhill Road,71,1970,10,136,0,0,0,0,0,136
+4,8 Feb 1996,Bukit Merah,Redhill Road,72,1970,10,92,0,0,0,0,0,92
+4,8 Feb 1996,Bukit Merah,Redhill Road,67,1972,16,0,0,192,0,0,0,192
+4,8 Feb 1996,Bukit Merah,Redhill Road,77,1972,16,0,0,192,0,0,0,192
+5,30 Apr 1996,Queenstown,Margaret Drive,6A,1969,16,0,0,108,0,0,0,108
+5,30 Apr 1996,Queenstown,Margaret Drive,6B,1969,16,0,0,108,0,0,0,108
+5,30 Apr 1996,Queenstown,Forfar House,39,1956,14,0,0,106,0,0,0,106
+6,27 May 1996,Bedok,Chai Chee Road,6,1966,5,0,0,40,0,0,0,40
+6,28 May 1996,Bedok,Chai Chee Road,7,1967,12,0,49,79,0,0,0,128
+7,30 Jun 1996,Ang Mo Kio,Ang Mo Kio Avenue 1,309,1978,12,255,0,0,0,0,0,255
+7,30 Jun 1996,Ang Mo Kio,Ang Mo Kio Avenue 1,315,1978,11,0,0,166,24,0,0,190
+7,30 Jun 1996,Ang Mo Kio,Ang Mo Kio Avenue 1,316,1978,11,0,0,166,24,0,0,190
+7,30 Jun 1996,Ang Mo Kio,Ang Mo Kio Avenue 1,307,1978,11,0,0,166,24,0,0,190
+7,30 Jun 1996,Ang Mo Kio,Ang Mo Kio Avenue 1,308,1978,11,0,0,166,25,0,0,191
+8,9 Sep 1996,Jurong West - Taman Jurong,"Corporation Drive /
+Hu Ching Road","139,140,141,142 ,143",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+9,5 Dec 1996,Queenstown - Buona Vista,Holland Drive,18,1975,10,0,0,106,0,1,0,107
+9,5 Dec 1996,Queenstown - Buona Vista,Holland Drive,19,1975,10,0,0,0,72,0,0,72
+10,17 Feb 1997,Toa Payoh,Toa Payoh Central,79,1971,10,0,0,374,0,0,0,374
+11,17 Feb 1997,Toa Payoh,Toa Payoh Lorong 2,89,1973,10,0,0,198,0,0,0,198
+12,17 Feb 1997,Ang Mo Kio,Ang Mo Kio Avenue 10,454,1979,12,0,0,121,22,0,0,143
+12,17 Feb 1997,Ang Mo Kio,Ang Mo Kio Avenue 10,455,1979,12,0,0,121,22,0,0,143
+13,17 Feb 1997,Bukit Merah - Tiong Bahru,Kim Tian Road,126,1974,10,0,0,109,0,0,0,109
+13,17 Feb 1997,Bukit Merah - Tiong Bahru,Kim Tian Road,127,1974,10,0,0,110,0,0,0,110
+14,17 Feb 1997,Bukit Merah,Nile Road,51,1963,10,0,28,90,0,0,0,118
+14,17 Feb 1997,Bukit Merah,Nile Road,53,1963,10,0,30,90,0,0,0,120
+14,17 Feb 1997,Bukit Merah,Nile Road,54,1963,10,0,30,90,0,0,0,120
+15,25 Apr 1997,Ang Mo Kio,Ang Mo Kio Avenue 3,580,1979,12,0,0,100,20,0,0,120
+15,25 Apr 1997,Ang Mo Kio,Ang Mo Kio Avenue 3,581,1979,12,0,0,100,20,0,0,120
+15,25 Apr 1997,Ang Mo Kio,Ang Mo Kio Avenue 3,582,1979,14,0,0,166,30,0,0,196
+16,25 Apr 1997,Queenstown - Buona Vista,Dover Crescent,24,1976,14,0,0,0,130,0,0,130
+16,25 Apr 1997,Queenstown - Buona Vista,Dover Crescent,28,1975,14,0,0,147,0,0,0,147
+17,25 Apr 1997,Kallang - Kitchener,Syed Alwi Road,3,1971,17,0,0,44,14,0,0,58
+17,25 Apr 1997,Kallang - Kitchener,Syed Alwi Road,4,1971,17,0,0,44,14,0,0,58
+17,25 Apr 1997,Kallang - Kitchener,Syed Alwi Road,5,1971,17,0,0,44,15,0,0,59
+18,17 Oct 1997,Jurong West - Taman Jurong,Tah Ching Road,"135,136,137,138",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+19,17 Oct 1997,Clementi,Clementi Avenue 3,"439, 440",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+20,17 Oct 1997,Bukit Merah,"Alexandra Road /
+Tiong Bahru Road","136A,137A,136,137,138,139,140,142,145",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+21,13 Feb 1998,Bukit Merah - Telok Blangah,Telok Blangah Drive,"78,80,81",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+22,13 Feb 1998,Jurong East - Teban Gardens,Teban Gardens Road,"12,13,14, 17, 19, 21,22,23",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+23,21 Jul 1998,Central,Short Street / Prinsep Street,"1,2,3,4,5,6,7",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+24,21 Jul 1998,Central,Short Street,"11,12,13",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+25,21 Jul 1998,Central,Outram Park,"21,22,23,27,28,29",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+26,7 Oct 1998,Toa Payoh - Upper Aljunied,Upper Aljunied Lane,1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+27,7 Oct 1998,Bukit Merah - Tiong Bahru,"Jalan Membina Barat /
+Lower Delta Road","24,31,32",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+28,7 Oct 1998,Bukit Merah - Tiong Bahru,Lower Delta Road,"102,103",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+29,7 Oct 1998,Lim Chu Kang,Lim Chu Kang Road,3,1980,4,0,0,17,5,0,0,22
+29,7 Oct 1998,Lim Chu Kang,Lim Chu Kang Road,4,1980,4,0,0,17,5,0,0,22
+29,7 Oct 1998,Lim Chu Kang,Lim Chu Kang Road,5,1980,4,0,0,17,5,0,0,22
+30,18 Mar 1999,Kallang - Bendemeer,Tronoh Road,"7,8",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+31,21 Mar 1999,Bukit Batok - Hillview,Hillview Avenue,"1,2,3,4,5,6,7,8,10,12,13,14",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+32,29 Oct 1999,Toa Payoh,Toa Payoh Lorong 1A,"136,137,140",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+33,29 Oct 1999,Toa Payoh,Toa Payoh Lorong 1,"164,165,166,167",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+34,29 Oct 1999,Geylang,Dakota Crescent,"68,70,72",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+35,20 Feb 2000,Sengkang,"Punggol Road /
+Buangkok South Farmway 1","1, 2, 5, 206,207",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+36,20 Feb 2000,Bedok,Bedok North Road,83,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+37,20 Feb 2000,Sembawang,Sembawang Road,"1,2,3,4,5",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+38,30 Jul 2000,Bukit Merah - Telok Blangah,Telok Blangah Heights,"70,71",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+39,30 Jul 2000,Central,Outram Hill,"14,15,16",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+40,12 Aug 2000,Clementi,Clementi Ave 4,"311,312,313,314",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+41,17 Feb 2001,Queenstown ,Margaret Drive,96,1969,16,0,0,108,0,0,0,108
+42,17 Feb 2001,Queenstown,Stirling Road,172,1971,15,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+42,17 Feb 2001,Queenstown,Stirling Road,173,1971,15,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+42,17 Feb 2001,Queenstown,Stirling Road,174,1971,15,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+42,17 Feb 2001,Queenstown,Stirling Road,175,1971,15,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+43,3 Mar 2001,Seletar,Seletar Road,"1,2,3,4",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+44,3 Mar 2001,Seletar,Seletar West Farmway 6,"1, 2, 5, 6,7",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+45,11 Mar 2001,Kallang - Boon Keng,Upper Boon Keng Road,"6, 8, 9,10",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+46,13 Jan 2003,Queenstown,Tanglin Halt,50,1962,10,0,28,79,6,0,0,114
+46,13 Jan 2003,Queenstown,Tanglin Halt,51,1962,10,0,27,83,4,0,0,116
+46,13 Jan 2003,Queenstown,Tanglin Halt,52,1962,10,0,28,87,2,0,0,118
+46,13 Jan 2003,Queenstown,Tanglin Halt,53,1962,10,0,29,87,2,0,0,118
+46,13 Jan 2003,Queenstown,Tanglin Halt,54,1962,10,0,29,86,2,0,0,118
+47,13 Jan 2003,Queenstown,Commonwealth Drive,57,1963,10,0,29,87,2,0,0,118
+47,13 Jan 2003,Queenstown,Commonwealth Drive,61,1963,10,0,29,86,2,0,0,118
+47,13 Jan 2003,Queenstown,Commonwealth Drive,67,1963,10,0,28,85,3,0,0,117
+47,13 Jan 2003,Queenstown,Commonwealth Drive,68,1963,10,0,28,82,5,0,0,115
+47,13 Jan 2003,Queenstown,Commonwealth Drive,69,1963,10,0,29,86,2,0,0,118
+47,13 Jan 2003,Queenstown,Commonwealth Drive,70,1963,10,0,29,88,1,0,0,119
+47,13 Jan 2003,Queenstown,Commonwealth Drive,71,1963,10,0,29,83,4,0,0,116
+47,13 Jan 2003,Queenstown,Commonwealth Drive,72,1963,10,0,28,84,4,0,0,116
+47,13 Jan 2003,Queenstown,Commonwealth Drive,73,1963,10,0,26,77,8,0,0,112
+48,15 Jan 2003,Toa Payoh,Lorong 5 and Lorong 6 Toa Payoh,"28, 30, 32, 33",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+49,20 Feb 2003,Geylang,"Jalan Pasar Baru /
+Geylang Serai","1,2,3",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+50,24 Feb 2003,Bukit Merah - Havelock,"Havelock Road /
+Taman Ho Swee","29, 31,33",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+51,16 Jul 2004,Bedok,Bedok South Avenue 3,"46,47,48,49,50",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+52,19 Jul 2004,Queenstown - Buona Vista,Dover Road,"30,31,32,34,35,36,37,38,39",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+53,28 Jul 2004,Jurong West - Taman Jurong,Tao Ching Road,"103,104,105",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+54,28 Mar 2005,Clementi,Clementi Avenue 3,"436,437,438",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+55,28 Mar 2005,Clementi,Clementi Avenue 3,445,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+56,21 Apr 2005,Queenstown - Buona Vista,Holland Avenue / Drive,"14,15,16,17, 22,23",NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+57,25 Nov 2005,Kallang - Boon Keng,Upper Boon Keng Road,20,1974,16,0,0,277,0,4,0,281
+58,25 Nov 2005,Geylang,Sims Drive,54,1976,13,0,0,0,159,0,0,159
+58,25 Nov 2005,Geylang,Sims Drive,56,1976,13,0,0,0,159,0,0,159
+58,25 Nov 2005,Geylang,Sims Drive,57,1976,13,0,0,0,159,0,0,159
+58,25 Nov 2005,Geylang,Sims Drive,59,1976,13,0,0,0,159,0,0,159
+58,25 Nov 2005,Geylang,Sims Drive,60,1976,12,0,0,193,0,6,0,300
+58,25 Nov 2005,Geylang,Sims Drive,62,1976,12/,0,0,194,0,7,0,300
+59,29 Dec 2005,Queenstown,Margaret Drive,6C,1969,11,0,0,169,0,0,0,169
+60,29 Dec 2005,Queenstown,Commonwealth Avenue,27A,1971,11,0,0,220,0,6,0,226
+61,29 Dec 2005,Queenstown,Commonwealth Avenue,39A,1969,11,0,0,141,0,1,0,142
+62,22 Mar 2006,Jurong West - Boon Lay Gardens,"Yung Ping Road /
+Yung Kuang Road",5,1973,11,0,0,102,0,1,0,103
+62,22 Mar 2006,Jurong West - Boon Lay Gardens,"Yung Ping Road /
+Yung Kuang Road",6,1973,11,0,0,102,0,1,0,103
+62,22 Mar 2006,Jurong West - Boon Lay Gardens,"Yung Ping Road /
+Yung Kuang Road",7,1973,11,0,0,102,0,1,0,103
+62,22 Mar 2006,Jurong West - Boon Lay Gardens,"Yung Ping Road /
+Yung Kuang Road",8,1973,11,0,0,102,0,1,0,103
+62,22 Mar 2006,Jurong West - Boon Lay Gardens,"Yung Ping Road /
+Yung Kuang Road",9,1973,11,0,0,102,0,1,0,103
+62,22 Mar 2006,Jurong West - Boon Lay Gardens,"Yung Ping Road /
+Yung Kuang Road",10,1973,11,0,0,100,0,4,0,104
+63,22 Mar 2006,Jurong West - Boon Lay Gardens,Boon Lay Drive,180,1976,2,0,0,0,0,0,0,0
+63,22 Mar 2006,Jurong West - Boon Lay Gardens,Boon Lay Drive,182,1976,7,0,0,0,158,0,0,158
+63,22 Mar 2006,Jurong West - Boon Lay Gardens,Boon Lay Drive,184,1976,13,0,0,0,240,0,0,240
+63,22 Mar 2006,Jurong West - Boon Lay Gardens,Boon Lay Drive,181,1976,16,0,0,0,180,0,0,180
+64,22 Mar 2006,Jurong West - Taman Jurong,Boon Lay Avenue,216,1975,2,0,0,0,0,0,0,0
+64,22 Mar 2006,Jurong West - Taman Jurong,Boon Lay Avenue,217,1975,11,0,0,0,240,0,0,240
+64,22 Mar 2006,Jurong West - Taman Jurong,Boon Lay Avenue,219,1975,13,0,0,0,256,0,0,256
+64,22 Mar 2006,Jurong West - Taman Jurong,Boon Lay Avenue,220,1975,16,0,0,0,180,0,0,180
+65,21 Apr 2006,Bukit Merah,Zion Road,88,1973,16,0,0,0,110,0,0,110
+65,21 Apr 2006,Bukit Merah,Zion Road,89,1973,12,0,0,130,0,2,0,132
+65,21 Apr 2006,Bukit Merah,Zion Road,90,1973,12,0,0,130,0,2,0,132
+65,21 Apr 2006,Bukit Merah,Zion Road,91,1973,12,0,0,130,0,2,0,132
+65,21 Apr 2006,Bukit Merah,Zion Road,92,1973,12,0,0,129,0,1,0,130
+66,22 Jun 2006,Ang Mo Kio,Ang Mo Kio Avenue 2/ Ang Mo Kio Avenue 3/Ang Mo Kio Avenue 4,246,1976,12,0,0,0,55,33,0,88
+66,22 Jun 2006,Ang Mo Kio,Ang Mo Kio Avenue 2/ Ang Mo Kio Avenue 3/Ang Mo Kio Avenue 4,247,1976,12,0,0,0,55,33,0,88
+66,22 Jun 2006,Ang Mo Kio,Ang Mo Kio Avenue 2/ Ang Mo Kio Avenue 3/Ang Mo Kio Avenue 4,248,1976,12,0,0,0,8,94,0,102
+66,22 Jun 2006,Ang Mo Kio,Ang Mo Kio Avenue 2/ Ang Mo Kio Avenue 3/Ang Mo Kio Avenue 4,249,1976,4,0,0,48,0,0,0,48
+66,22 Jun 2006,Ang Mo Kio,Ang Mo Kio Avenue 2/ Ang Mo Kio Avenue 3/Ang Mo Kio Avenue 4,250,1976,12,0,0,193,0,5,0,198
+66,22 Jun 2006,Ang Mo Kio,Ang Mo Kio Avenue 2/ Ang Mo Kio Avenue 3/Ang Mo Kio Avenue 4,251,1976,12,0,0,193,0,5,0,198
+66,22 Jun 2006,Ang Mo Kio,Ang Mo Kio Avenue 2/ Ang Mo Kio Avenue 3/Ang Mo Kio Avenue 4,252,1976,12,0,0,195,0,5,1,201
+67,8 Dec 2006,Queenstown - Buona Vista,Ghim Moh Road,9,1976,10,0,0,235,20,2,0,257
+67,8 Dec 2006,Queenstown - Buona Vista,Ghim Moh Road,10,1976,10,0,0,235,20,3,0,258
+67,8 Dec 2006,Queenstown - Buona Vista,Ghim Moh Road,11,1976,20,0,0,0,76,0,0,76
+67,8 Dec 2006,Queenstown - Buona Vista,Ghim Moh Road,12,1976,14,0,0,0,138,0,0,138
+67,8 Dec 2006,Queenstown - Buona Vista,Ghim Moh Road,9A,1976,14,0,0,0,138,0,0,138
+67,8 Dec 2006,Queenstown - Buona Vista,Ghim Moh Road, 12A,1976,14,0,0,0,139,0,0,139
+68,23 Feb 2007,Bukit Merah,Henderson Road,94,1975,12,0,0,206,22,3,0,231
+68,23 Feb 2007,Bukit Merah,Henderson Road,96,1975,16,0,0,152,146,2,0,300
+69,23 Feb 2007,Bukit Merah - Silat,"Silat Walk / Kampong
+Bahru Hill / Silat Road",17,1949,4,0,0,11,12,0,0,23
+69,23 Feb 2007,Bukit Merah - Silat,"Silat Walk / Kampong
+Bahru Hill / Silat Road",18,1949,4,0,0,11,12,0,0,23
+69,23 Feb 2007,Bukit Merah - Silat,"Silat Walk / Kampong
+Bahru Hill / Silat Road",19,1949,4,0,0,11,12,0,0,23
+69,23 Feb 2007,Bukit Merah - Silat,"Silat Walk / Kampong
+Bahru Hill / Silat Road",22,1952,4,0,0,11,12,0,0,23
+69,23 Feb 2007,Bukit Merah - Silat,"Silat Walk / Kampong
+Bahru Hill / Silat Road",23,1952,4,0,0,11,12,0,0,23
+69,23 Feb 2007,Bukit Merah - Silat,"Silat Walk / Kampong
+Bahru Hill / Silat Road",24,1952,4,0,0,11,4,0,0,15
+69,23 Feb 2007,Bukit Merah - Silat,"Silat Walk / Kampong
+Bahru Hill / Silat Road",25,1952,4,0,0,11,0,0,0,11
+69,23 Feb 2007,Bukit Merah - Silat,"Silat Walk / Kampong
+Bahru Hill / Silat Road",26,1952,4,0,0,11,0,0,0,11
+69,23 Feb 2007,Bukit Merah - Silat,"Silat Walk / Kampong
+Bahru Hill / Silat Road",27,1952,4,0,0,11,0,0,0,11
+69,23 Feb 2007,Bukit Merah - Silat,"Silat Walk / Kampong
+Bahru Hill / Silat Road",28,1952,4,0,0,11,0,0,0,11
+69,23 Feb 2007,Bukit Merah - Silat,"Silat Walk / Kampong
+Bahru Hill / Silat Road",29,1952,4,0,0,11,0,0,0,11
+69,23 Feb 2007,Bukit Merah - Silat,"Silat Walk / Kampong
+Bahru Hill / Silat Road",30,1952,4,0,0,11,0,0,0,11
+69,23 Feb 2007,Bukit Merah - Silat,"Silat Walk / Kampong
+Bahru Hill / Silat Road",31,1952,3,0,0,12,0,0,0,15
+70,28 Jun 2007,Clementi,Clementi Avenue 1,401,1977,12,0,0,168,22,2,2,194
+70,28 Jun 2007,Clementi,Clementi Avenue 1,402,1977,12,0,0,168,22,2,2,194
+70,28 Jun 2007,Clementi,Clementi Avenue 1,403,1977,12,0,0,168,22,2,2,194
+70,28 Jun 2007,Clementi,Clementi Avenue 1,404,1977,12,0,0,168,22,2,3,195
+70,28 Jun 2007,Clementi,Clementi Avenue 1,407,1977,13,0,0,125,0,0,0,125
+70,28 Jun 2007,Clementi,Clementi Avenue 1,408,1977,14,0,0,0,136,0,0,136
+70,28 Jun 2007,Clementi,Clementi Avenue 1,409,1977,14,0,0,0,136,0,0,136
+71,12 Jul 2007,Jurong East - Teban Gardens,Teban Gardens Road,2,1976,14,0,0,110,0,0,0,110
+71,12 Jul 2007,Jurong East - Teban Gardens,Teban Gardens Road,3,1976,14,0,0,110,0,0,0,110
+71,12 Jul 2007,Jurong East - Teban Gardens,Teban Gardens Road,4,1976,14,0,0,110,0,0,0,110
+71,12 Jul 2007,Jurong East - Teban Gardens,Teban Gardens Road,5,1976,14,0,0,110,0,0,0,110
+71,12 Jul 2007,Jurong East - Teban Gardens,Teban Gardens Road,6,1976,14,0,0,110,0,0,0,110
+71,12 Jul 2007,Jurong East - Teban Gardens,Teban Gardens Road,7,1976,10,0,0,0,0,40,0,40
+71,12 Jul 2007,Jurong East - Teban Gardens,Teban Gardens Road,8,1976,10,0,0,0,0,40,0,40
+71,12 Jul 2007,Jurong East - Teban Gardens,Teban Gardens Road,9,1976,10,0,0,0,0,45,0,45
+71,12 Jul 2007,Jurong East - Teban Gardens,Teban Gardens Road,10,1976,20,0,0,0,120,0,0,120
+71,12 Jul 2007,Jurong East - Teban Gardens,Teban Gardens Road,11,1976,14,0,0,122,0,0,0,122
+72,8-Aug-08,Queenstown,Commonwealth Drive,74,1964,10,0,0,94,1,0,0,95
+72,8-Aug-08,Queenstown,Commonwealth Drive,75,1964,10,0,0,94,1,0,0,95
+72,8-Aug-08,Queenstown,Commonwealth Drive,76,1964,10,0,0,94,1,0,0,95
+72,8-Aug-08,Queenstown,Commonwealth Drive,77,1964,10,0,0,94,1,0,0,95
+72,8-Aug-08,Queenstown,Commonwealth Drive,78,1964,10,0,0,94,1,0,0,95
+72,8-Aug-08,Queenstown,Commonwealth Drive,79,1964,10,0,0,94,1,0,0,95
+72,8-Aug-08,Queenstown,Commonwealth Drive,80,1964,10,0,0,95,4,0,0,99
+73,8-Nov-09,Bukit Merah,Bukit Merah View,110,1973,5,0,0,51,0,1,0,52
+73,8-Nov-09,Bukit Merah,Bukit Merah View,111,1973,25,0,0,0,96,0,0,96
+73,8-Nov-09,Bukit Merah,Bukit Merah View,113,1973,25,0,0,0,96,0,0,96
+73,8-Nov-09,Bukit Merah,Bukit Merah View,114,1973,5,0,0,51,0,1,0,52
+74,13-Feb-11,Clementi,Clementi Avenue 5,321,1977,10,0,0,0,81,0,0,81
+74,13-Feb-11,Clementi,Clementi Avenue 5,322,1977,10,0,0,145,0,1,0,146
+74,13-Feb-11,Clementi,Clementi Avenue 5,323,1977,10,0,0,146,0,1,0,147
+75,9-Nov-11,Bedok - East Coast,East Coast Road,1,1963,5,0,0,26,1,0,0,27
+75,9-Nov-11,Bedok - East Coast,East Coast Road,2,1963,5,0,0,26,1,0,0,27
+75,9-Nov-11,Bedok - East Coast,East Coast Road,3,1963,5,0,0,28,0,0,0,28
+x,15-Nov-11,Central,Rochor Road,1,1977,17,0,0,131,0,10,0,141
+x,15-Nov-11,Central,Rochor Road,2,1977,17,0,0,132,0,10,0,142
+x,15-Nov-11,Central,Rochor Road,3,1977,17,0,0,132,0,10,0,142
+x,15-Nov-11,Central,Rochor Road,4,1977,17,0,0,132,0,10,0,142
+76,3-Dec-11,Bukit Merah,Redhill Close,1,1955,7,0,0,40,1,0,0,41
+76,3-Dec-11,Bukit Merah,Redhill Close,2,1955,7,0,0,40,1,0,0,41
+76,3-Dec-11,Bukit Merah,Redhill Close,3,1955,7,0,0,40,1,0,0,41
+76,3-Dec-11,Bukit Merah,Redhill Close,5,1955,7,0,0,40,0,0,0,40
+76,3-Dec-11,Bukit Merah,Redhill Close,6,1955,7,0,0,40,0,0,0,40
+76,3-Dec-11,Bukit Merah,Redhill Close,7,1955,7,0,0,40,0,0,0,40
+76,3-Dec-11,Bukit Merah,Redhill Close,8,1955,7,0,0,40,0,0,0,40
+76,3-Dec-11,Bukit Merah,Redhill Close,9,1955,7,0,0,40,0,0,0,40
+76,3-Dec-11,Bukit Merah,Redhill Close,10,1955,7,0,0,40,0,0,0,40
+76,3-Dec-11,Bukit Merah,Redhill Close,11,1955,7,0,0,40,0,0,0,40
+76,3-Dec-11,Bukit Merah,Redhill Close,12,1955,7,0,0,40,0,0,0,40
+76,3-Dec-11,Bukit Merah,Redhill Close,13,1955,7,0,0,40,0,0,0,40
+76,3-Dec-11,Bukit Merah,Redhill Close,14,1955,7,0,0,40,0,0,0,40
+76,3-Dec-11,Bukit Merah,Redhill Close,15,1955,7,0,0,40,0,0,0,40
+76,3-Dec-11,Bukit Merah,Redhill Close,16,1955,7,0,0,45,0,0,0,45
+76,3-Dec-11,Bukit Merah,Redhill Close,17,1955,7,0,0,45,0,0,0,45
+76,3-Dec-11,Bukit Merah,Redhill Close,18,1955,7,0,0,45,0,0,0,45
+76,3-Dec-11,Bukit Merah,Redhill Close,19,1955,7,0,0,45,0,0,0,45
+76,3-Dec-11,Bukit Merah,Redhill Close,20,1955,7,0,0,45,0,0,0,45
+76,3-Dec-11,Bukit Merah,Redhill Close,21,1955,7,0,0,45,0,0,0,45
+76,3-Dec-11,Bukit Merah,Redhill Close,22,1955,7,0,0,45,0,0,0,45
+77,29-Dec-11,Jurong West - Boon Lay Gardens,Boon Lay Drive,167,1973,11,0,0,106,0,3,0,109
+77,29-Dec-11,Jurong West - Boon Lay Gardens,Boon Lay Drive,168,1973,11,0,0,106,0,3,0,109
+77,29-Dec-11,Jurong West - Boon Lay Gardens,Boon Lay Drive,169,1973,11,0,0,107,0,1,0,108
+77,29-Dec-11,Jurong West - Boon Lay Gardens,Boon Lay Drive,170,1973,11,0,0,107,0,1,0,108
+77,29-Dec-11,Jurong West - Boon Lay Gardens,Boon Lay Drive,171,1973,11,0,0,107,0,1,0,108
+77,29-Dec-11,Jurong West - Boon Lay Gardens,Boon Lay Drive,172,1973,11,0,0,107,0,1,0,108
+78,25-Jun-12,Woodlands,Woodlands Centre Road,1A,1980,4,0,0,73,0,0,0,73
+78,25-Jun-12,Woodlands,Woodlands Centre Road,2A,1986,4,0,0,70,0,4,0,74
+79,27-Jun-14,Queenstown,TANGLIN HALT RD,24,1962,10,0,26,81,3,0,0,111
+79,27-Jun-14,Queenstown,TANGLIN HALT RD,25,1962,10,0,27,79,4,0,0,110
+79,27-Jun-14,Queenstown,TANGLIN HALT RD,26,1962,10,0,24,81,3,0,0,111
+79,27-Jun-14,Queenstown,TANGLIN HALT RD,27,1962,10,0,25,79,5,0,0,109
+79,27-Jun-14,Queenstown,TANGLIN HALT RD,28,1962,10,0,23,74,7,0,0,107
+79,27-Jun-14,Queenstown,TANGLIN HALT RD,29,1962,9,0,26,77,2,0,0,106
+79,27-Jun-14,Queenstown,TANGLIN HALT RD,30,1962,9,0,27,78,1,0,0,107
+79,27-Jun-14,Queenstown,TANGLIN HALT RD,31,1962,9,0,25,71,5,0,0,103
+79,27-Jun-14,Queenstown,TANGLIN HALT RD,32,1962,9,0,27,74,3,0,0,105
+79,27-Jun-14,Queenstown,TANGLIN HALT RD,33,1962,10,0,28,83,4,0,0,116
+79,27-Jun-14,Queenstown,TANGLIN HALT RD,34,1962,10,0,27,86,3,0,0,117
+79,27-Jun-14,Queenstown,TANGLIN HALT RD,35,1962,10,0,29,88,1,0,0,119
+79,27-Jun-14,Queenstown,TANGLIN HALT RD,36,1962,10,0,26,87,3,0,0,117
+79,27-Jun-14,Queenstown,TANGLIN HALT RD,37,1962,10,0,27,88,2,0,0,118
+79,27-Jun-14,Queenstown,TANGLIN HALT RD,38,1962,10,0,25,84,4,0,0,116
+79,27-Jun-14,Queenstown,TANGLIN HALT RD,40,1962,10,0,28,84,4,0,0,116
+79,27-Jun-14,Queenstown,TANGLIN HALT RD,41,1962,10,0,28,87,2,0,0,118
+79,27-Jun-14,Queenstown,TANGLIN HALT RD,42,1962,10,0,29,87,2,0,0,118
+79,27-Jun-14,Queenstown,TANGLIN HALT RD,43,1962,10,0,28,79,6,0,0,114
+79,27-Jun-14,Queenstown,TANGLIN HALT RD,44,1962,10,0,27,83,4,0,0,116
+79,27-Jun-14,Queenstown,TANGLIN HALT RD,45,1962,10,0,28,87,2,0,0,118
+79,27-Jun-14,Queenstown,C'WEALTH DR,55,1962,10,0,29,87,2,0,0,118
+79,27-Jun-14,Queenstown,C'WEALTH DR,56,1962,10,0,29,86,2,0,0,118
+79,27-Jun-14,Queenstown,C'WEALTH DR,58,1962,10,0,28,85,3,0,0,117
+79,27-Jun-14,Queenstown,C'WEALTH DR,59,1963,10,0,28,82,5,0,0,115
+79,27-Jun-14,Queenstown,C'WEALTH DR,60,1963,10,0,29,86,2,0,0,118
+79,27-Jun-14,Queenstown,C'WEALTH DR,62,1963,10,0,29,88,1,0,0,119
+79,27-Jun-14,Queenstown,C'WEALTH DR,63,1963,10,0,29,83,4,0,0,116
+79,27-Jun-14,Queenstown,C'WEALTH DR,64,1963,10,0,28,84,4,0,0,116
+79,27-Jun-14,Queenstown,C'WEALTH DR,65,1963,10,0,26,77,8,0,0,112
+79,27-Jun-14,Queenstown,C'WEALTH DR,66,1963,10,0,28,86,3,0,0,117
+80,3-Aug-16,Clementi,WEST COAST RD,513,1979,14,0,0,178,26,1,1,206
+80,3-Aug-16,Clementi,WEST COAST RD,514,1979,12,0,0,110,22,0,0,132
+80,3-Aug-16,Clementi,WEST COAST RD,515,1979,14,0,0,124,26,2,1,153
+80,3-Aug-16,Clementi,WEST COAST RD,516,1979,2,0,0,3,0,0,0,3
+80,3-Aug-16,Clementi,WEST COAST RD,517,1979,2,0,0,0,0,0,0,0
+80,3-Aug-16,Clementi,WEST COAST RD,518,1979,12,0,0,146,22,1,3,172
+80,3-Aug-16,Clementi,WEST COAST RD,519,1979,12,0,0,150,22,0,2,174
+80,3-Aug-16,Clementi,WEST COAST RD,520,1979,12,0,0,132,22,0,0,154
+81,13-May-18,GL,MACPHERSON LANE,81,1968,12,0,115,11,2,0,0,130
+81,13-May-18,GL,MACPHERSON LANE,82,1968,12,0,13,80,1,0,0,94
+81,13-May-18,GL,MACPHERSON LANE,83,1968,12,0,11,78,2,0,0,93
